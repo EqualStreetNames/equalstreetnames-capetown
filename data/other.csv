@@ -13,7 +13,10 @@ name,source,gender,wikidata,type
 "Leeukop Street",wikidata,,Q1718867,way
 "Leeuwen Street",wikidata,,Q140,way
 "Lion Street",wikidata,,Q140,way
+"Malines Avenue",wikidata,,Q162022,way
+"Menin Avenue",wikidata,,Q213224,way
 "Molteno Road",wikidata,,Q1003348,way
+"Mons Avenue",wikidata,,Q83407,way
 "Mouille Point Promenade",wikidata,,Q763449,way
 "Southern Cross Drive",wikidata,,Q10542,way
 "Strand Street",wikidata,,Q40080,way
@@ -3997,7 +4000,6 @@ Chipphillside,,,,way
 "Churchill Avenue",,,,way
 "Churchill Close",,,,way
 "Churchill Estate",,,,relation
-"Churchill Road",,,,way
 "Churchill Square",,,,way
 "Churchill Street",,,,way
 "Chwela Street",,,,way
@@ -4262,7 +4264,6 @@ Coimbra,,,,way
 "Columbine Street",,,,way
 "Columbus Avenue",,,,way
 "Columbus Crescent",,,,way
-"Columbus Road",,,,way
 "Columbus Street",,,,way
 "Colwell Road",,,,way
 "Colwell Street",,,,way
@@ -9149,7 +9150,6 @@ Hyland,,,,way
 "Ilovane Close",,,,way
 "Ilze Street",,,,way
 "Imadolo Street",,,,way
-"Imam Haron Road",,,,way
 "Imam Solomons Close",,,,way
 "Imatong Street",,,,way
 "Imba Street",,,,way
@@ -9530,7 +9530,6 @@ Iris,,,,way
 "Jan Michau Road",,,,way
 "Jan Michau Street",,,,way
 "Jan Smuts Road",,,,way
-"Jan Smuts Street",,,,way
 "Jan van Eck Road",,,,way
 "Jan van Riebeeck Avenue",,,,way
 "Jan van Riebeeck Drive",,,,way
@@ -12176,7 +12175,6 @@ Maitland,,,,relation
 "Malibu Street",,,,way
 "Malifa Street",,,,way
 "Malindi Crescent",,,,way
-"Malines Avenue",,,,way
 "Malinga Crescent",,,,way
 "Malio Street",,,,way
 "Malithi Close",,,,way
@@ -12842,7 +12840,6 @@ Melland,,,,way
 "Mendoza Street",,,,way
 "Mendu Road",,,,way
 "Mene Crescent",,,,way
-"Menin Avenue",,,,way
 "Menlo Crescent",,,,way
 "Mensey Road",,,,way
 "Menta Close",,,,way
@@ -13324,7 +13321,6 @@ Molteno,,,,way
 "Monrosa Close",,,,way
 "Monrovia Circle",,,,way
 "Monrovia Close",,,,way
-"Mons Avenue",,,,way
 "Monsoon Road",,,,way
 "Mont Blanc Crescent",,,,way
 "Mont Blanc Street",,,,way
@@ -16331,7 +16327,6 @@ Plumstead,,,,relation
 "Prince Avenue",,,,way
 "Prince Charles Road",,,,way
 "Prince Drive",,,,way
-"Prince George Drive",,,,way
 "Prince George Drive Service Road",,,,way
 "Prince Henry Crescent",,,,way
 "Prince Place",,,,way
@@ -16526,7 +16521,6 @@ Prunus,,,,way
 "Queen Guinevere Street",,,,way
 "Queen Road",,,,way
 "Queen Street",,,,way
-"Queen Victoria Road",,,,way
 "Queens Avenue",,,,way
 "Queens Close",,,,way
 "Queens Drive",,,,way
@@ -16805,7 +16799,6 @@ Rapide,,,,way
 "Reitz Street",,,,way
 "Rembrandt Avenue",,,,way
 "Rembrandt Crescent",,,,way
-"Rembrandt Road",,,,way
 "Rembrandt Street",,,,way
 "Remhoogte Road",,,,way
 "Remhoogte Street",,,,way
@@ -17260,7 +17253,6 @@ Roodekrans,,,,way
 "Roos Street",,,,way
 "Rooseboom Street",,,,way
 "Roosendaal Road",,,,way
-"Roosevelt Road",,,,way
 "Roosmaryn Crescent",,,,way
 "Roosmaryn Road",,,,way
 "Roosmaryn Street",,,,way
@@ -17668,7 +17660,6 @@ Sage,,,,way
 "Saint Cosmos Road",,,,way
 "Saint Croix Close",,,,way
 "Saint Croix Drive",,,,way
-"Saint David's Road",,,,way
 "Saint Davids Street",,,,way
 "Saint Denis Road",,,,way
 "Saint Dominic Street",,,,way
@@ -17787,7 +17778,6 @@ Sage,,,,way
 "Saint Swithin Road",,,,way
 "Saint Theresa Crescent",,,,way
 "Saint Thomas Close",,,,way
-"Saint Thomas Road",,,,way
 "Saint Timothy Street",,,,way
 "Saint Titus Crescent",,,,way
 "Saint Tropez Road",,,,way
@@ -21447,7 +21437,6 @@ Versailles,,,,way
 "Victoria Link Road",,,,way
 "Victoria Mxenge",,,,way
 "Victoria Mxenge Crescent",,,,way
-"Victoria Road",,,,way
 "Victoria Street",,,,way
 "Victoria Walk",,,,way
 "Victoria Way",,,,way
@@ -21733,7 +21722,6 @@ Vrygrond,,,,relation
 "W. Mkwayi Avenue",,,,way
 "W. Nzala Street",,,,way
 "W. R. Quinan Boulevard",,,,way
-"W. Sisulu Road",,,,way
 "W. Songqeqo Street",,,,way
 "W. Stemele Street",,,,way
 "W. Thafeni Street",,,,way
