@@ -18,7 +18,12 @@ name,source,gender,wikidata,type
 "Molteno Road",wikidata,,Q1003348,way
 "Mons Avenue",wikidata,,Q83407,way
 "Mouille Point Promenade",wikidata,,Q763449,way
+"Ottawa Avenue",wikidata,,Q1930,way
+"Quebec Road",wikidata,,Q176,way
+"Rottingdean Road",wikidata,,Q1612583,way
+"Saint Michaels Road",wikidata,,Q45581,way
 "Southern Cross Drive",wikidata,,Q10542,way
+"Springbok Road",wikidata,,Q213084,way
 "Strand Street",wikidata,,Q40080,way
 "Sydney Street",wikidata,,Q3130,way
 "Tafelberg Road",wikidata,,Q213360,way
@@ -1249,7 +1254,6 @@ Atlantis,,,,relation
 "Avenue Road",,,,way
 "Avenue Rouen",,,,way
 "Avenue Saint Bartholomew",,,,way
-"Avenue Saint Leon",,,,way
 "Avenue Saint Louis",,,,way
 "Avenue St Bartholomew",,,,way
 "Avenue St Charles",,,,way
@@ -3362,6 +3366,7 @@ Canellun,,,,way
 "Cape Point Ostrich Farm",,,,way
 "Cape Point Road",,,,way
 "Cape Snow Street",,,,way
+"Cape Town FE",,,,way
 "Cape Verde Drive",,,,way
 "Cape Verdi Island Street",,,,way
 "Cape Weaver Avenue",,,,way
@@ -6419,6 +6424,7 @@ Faircape,,,,way
 "Fairmead Drive",,,,way
 "Fairmead Road",,,,way
 "Fairmont Close",,,,way
+"Fairmount Road",,,,way
 "Fairmount View",,,,way
 "Fairthorne Road",,,,way
 Fairtrees,,,,way
@@ -15258,7 +15264,6 @@ Ospray,,,,way
 "Otello Crescent",,,,way
 "Othello Close",,,,way
 "Oti Close",,,,way
-"Ottawa Avenue",,,,way
 "Ottawa Road",,,,way
 "Otter Close",,,,way
 "Otter Crescent",,,,way
@@ -15409,6 +15414,7 @@ Ottery,,,,relation
 "Palala Crescent",,,,way
 "Palala Street",,,,way
 "Palatine Road",,,,way
+"Palazzo Estate",,,,way
 "Palermo Close",,,,way
 "Palermo Crescent",,,,way
 "Palermo Way",,,,way
@@ -16037,6 +16043,7 @@ Phoenix,,,,relation
 "Pilot Close",,,,way
 "Pilot Way",,,,way
 "Pilots Close",,,,way
+"Pimple Traverse",,,,way
 "Pimplol Close",,,,way
 "Pin Oak",,,,way
 "Pin Oak Crescent",,,,way
@@ -16567,7 +16574,6 @@ Prunus,,,,way
 "Quays Complex",,,,way
 "Quayside Complex",,,,way
 "Qubaka Crescent",,,,way
-"Quebec Road",,,,way
 "Quebel Road",,,,way
 "Queen Avenue",,,,way
 "Queen Bess Road",,,,way
@@ -16738,6 +16744,7 @@ Rapide,,,,way
 "Ravenswood Road",,,,way
 "Ravensworth Road",,,,way
 "Ravine Road",,,,way
+"Ravine Steps",,,,way
 "Ravine Street",,,,way
 "Ravlee Street",,,,way
 "Rawbone Road",,,,way
@@ -17377,7 +17384,6 @@ Rosebank,,,,relation
 "Rotspunt Close",,,,way
 "Rotterdam Road",,,,way
 "Rotterdam Street",,,,way
-"Rottingdean Road",,,,way
 "Rouge Close",,,,way
 "Rouge Crescent",,,,way
 "Rougemont Close",,,,way
@@ -17675,7 +17681,6 @@ Sage,,,,way
 "Saint Andrew's Mews",,,,way
 "Saint Andrews Avenue",,,,way
 "Saint Andrews Drive",,,,way
-"Saint Andrews Road",,,,way
 "Saint Anne Street",,,,way
 "Saint Anne's Street",,,,way
 "Saint Annes Street",,,,way
@@ -17753,7 +17758,6 @@ Sage,,,,way
 "Saint John's Road",,,,way
 "Saint John's Street",,,,way
 "Saint Johns Close",,,,way
-"Saint Johns Road",,,,way
 "Saint Johns Street",,,,way
 "Saint Johns Wood Close",,,,way
 "Saint Johns Wood Crescent",,,,way
@@ -17790,7 +17794,6 @@ Sage,,,,way
 "Saint Michael's Road",,,,way
 "Saint Michael's Street",,,,way
 "Saint Michaels Crescent",,,,way
-"Saint Michaels Road",,,,way
 "Saint Michel Avenue",,,,way
 "Saint Nicholas Street",,,,way
 "Saint Noah Street",,,,way
@@ -19243,7 +19246,6 @@ Southfield,,,,relation
 "Spring Street",,,,way
 "Springbok Close",,,,way
 "Springbok Crescent",,,,way
-"Springbok Road",,,,way
 "Springbok Street",,,,way
 "Springbok Way",,,,way
 "Springbow Avenue",,,,way
@@ -21502,6 +21504,7 @@ Versailles,,,,way
 "Victoria Close",,,,way
 "Victoria Crescent",,,,way
 "Victoria Drive",,,,way
+"Victoria Gully",,,,way
 "Victoria Lane",,,,way
 "Victoria Link Road",,,,way
 "Victoria Mxenge",,,,way
@@ -21554,6 +21557,8 @@ Versailles,,,,way
 "Villa Real Road",,,,way
 "Villa Riana",,,,way
 "Villa Road",,,,way
+"Villa Rosa",,,,way
+"Villa Rosa Road",,,,way
 "Villa Rustica Complex",,,,way
 "Villa Sondrio Close",,,,way
 "Villa Valdez Street",,,,way
@@ -21964,6 +21969,7 @@ Waldrift,,,,way
 "Waterberry Crescent",,,,way
 "Waterberry Drive",,,,way
 "Waterberry Street",,,,way
+"Waterberry Views",,,,way
 "Waterbessie Crescent",,,,way
 "Waterbessie Street",,,,way
 "Waterblom Street",,,,way

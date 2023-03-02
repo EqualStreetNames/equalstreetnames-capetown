@@ -3,6 +3,7 @@ name,source,gender,wikidata,type
 "Queen Victoria Road",wikidata,F,Q9439,way
 "Queen Victoria Street",wikidata,F,Q9439,way
 "Victoria Road",wikidata,F,Q9439,way
+"Avenue Saint Leon",wikidata,M,Q558148,way
 "Christiaan Barnard Street",wikidata,M,Q188803,way
 "Churchill Road",wikidata,M,Q8016,way
 "Columbus Road",wikidata,M,Q7322,way
@@ -27,7 +28,9 @@ name,source,gender,wikidata,type
 "Riebeek Lane",wikidata,M,Q294769,way
 "Riebeek Street",wikidata,M,Q294769,way
 "Roosevelt Road",wikidata,M,Q8007,way
+"Saint Andrews Road",wikidata,M,Q43399,way
 "Saint David's Road",wikidata,M,Q331697,way
+"Saint Johns Road",wikidata,M,Q44015,way
 "Saint Thomas Road",wikidata,M,Q43669,way
 "Sir George Grey Street",wikidata,M,Q76821,way
 "Sir Lowry Road",wikidata,M,Q346470,way
