@@ -99,6 +99,7 @@ name,source,gender,wikidata,type
 "50 Road",,,,way
 "50th Avenue",,,,way
 "51st Avenue",,,,way
+"580 m Devil's Peak Traverse",,,,way
 "580 m Traverse",,,,way
 "580m Traverse Link",,,,way
 "5th Avenue",,,,way
@@ -5267,6 +5268,7 @@ Deodar,,,,way
 "Diadem Close",,,,way
 "Diadem Lane",,,,way
 "Diagonal Route",,,,way
+"Diagonal Route / Porcupine Ravine",,,,way
 "Diagonal Street",,,,way
 Diaken,,,,way
 "Diamant Crescent",,,,way
@@ -6240,7 +6242,6 @@ Envoy,,,,way
 Erica,,,,way
 "Erica Avenue",,,,way
 "Erica Buttress",,,,way
-"Erica Buttress and Ascension Traverse",,,,way
 "Erica Close",,,,way
 "Erica Crescent",,,,way
 "Erica Drive",,,,way
@@ -6319,7 +6320,9 @@ Erica,,,,way
 "Estoril Way",,,,way
 "Ethel Close",,,,way
 "Ethel Road",,,,way
+"Ethembeni Creche Street",,,,way
 "Ethembeni Main Road",,,,way
+"Ethembeni North Road",,,,way
 "Etna Crescent",,,,way
 "Eton Road",,,,way
 "Eton Way",,,,way
@@ -10085,6 +10088,7 @@ Kanonkop,,,,way
 "Kasteel Crescent",,,,way
 "Kasteel Road",,,,way
 "Kasteel Street",,,,way
+"Kasteel to Postern Buttress Traverse",,,,way
 "Kasteelberg Close",,,,way
 "Kasteelberg Crescent",,,,way
 "Kasteelberg Road",,,,way
@@ -11271,6 +11275,7 @@ Leeuenhof,,,,way
 "Leith Street",,,,way
 "Lekkerwater Road",,,,way
 "Lekkerwater Street",,,,way
+"Lekkerwater Traverse",,,,way
 "Lekoma Way",,,,way
 "Lelala Avenue",,,,way
 "Lelala Crescent",,,,way
@@ -21504,11 +21509,11 @@ Versailles,,,,way
 "Victoria Close",,,,way
 "Victoria Crescent",,,,way
 "Victoria Drive",,,,way
-"Victoria Gully",,,,way
 "Victoria Lane",,,,way
 "Victoria Link Road",,,,way
 "Victoria Mxenge",,,,way
 "Victoria Mxenge Crescent",,,,way
+"Victoria Ravine",,,,way
 "Victoria Street",,,,way
 "Victoria Walk",,,,way
 "Victoria Way",,,,way
