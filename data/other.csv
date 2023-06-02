@@ -1067,13 +1067,13 @@ Armosyn,,,,way
 "Ashford Road",,,,way
 "Ashford Street",,,,way
 "Ashgrove Complex",,,,way
+"Ashleigh Kriel Street",,,,way
 "Ashley Court",,,,way
 "Ashley Crescent",,,,way
 "Ashley Forbes Road",,,,way
 "Ashley Kriel",,,,way
 "Ashley Kriel Avenue",,,,way
 "Ashley Kriel Road",,,,way
-"Ashley Kriel Street",,,,way
 "Ashley Road",,,,way
 "Ashley Way",,,,way
 "Ashraf Avenue",,,,way
@@ -1928,10 +1928,10 @@ Belgravia,,,,relation
 "Bengel Street",,,,way
 "Bengezela Street",,,,way
 "Benghazi Road",,,,way
-"Bengna Close",,,,way
 "Benguela Avenue",,,,way
 "Benguela Beach Complex",,,,way
 "Benguela Close",,,,way
+"Benigna Close",,,,way
 "Benjamin Road",,,,way
 "Benla Street",,,,way
 "Bennett Close",,,,way
@@ -3093,6 +3093,7 @@ Burgandy,,,,way
 "Burham Road",,,,way
 "Burke Street",,,,way
 "Burkea Crescent",,,,way
+"Burlington Road",,,,way
 "Burlington Street",,,,way
 "Burma Lane",,,,way
 "Burmeister Circle",,,,way
@@ -3277,7 +3278,6 @@ Cambridge,,,,way
 "Cameronians Avenue",,,,way
 "Cameroon Court",,,,way
 "Cameroon Street",,,,way
-"Camhor Close",,,,way
 "Camilla Street",,,,way
 "Camille Close",,,,way
 "Camillia Close",,,,way
@@ -3669,7 +3669,6 @@ Celebes,,,,way
 "Celu Close",,,,way
 "Celu Crescent",,,,way
 "Celu Street",,,,way
-"Cemetary Road",,,,way
 "Cemetery Road",,,,way
 "Centani Road",,,,way
 "Centaur Close",,,,way
@@ -4137,6 +4136,7 @@ Claremont,,,,relation
 "Cleveland Street",,,,way
 "Clevily Road",,,,way
 "Cliff Road",,,,way
+"Cliff road",,,,way
 "Cliffoney Street",,,,way
 "Clifford Avenue",,,,way
 "Clifford Crescent",,,,way
@@ -5498,6 +5498,7 @@ Dijon,,,,way
 "Doornhoek Street",,,,way
 "Doornhof Close",,,,way
 "Dora Tamana",,,,way
+"Dora Tamana Street",,,,way
 "Dora Tamane Street",,,,way
 "Dorado Street",,,,way
 "Dorah Street",,,,way
@@ -12748,7 +12749,6 @@ Mataro,,,,way
 "Mbulu Street",,,,way
 Mbuso,,,,way
 "Mc Beukes Street",,,,way
-"Mc Intyre Road",,,,way
 "Mc Manus Close",,,,way
 "McBride Lane",,,,way
 "McCarthy Road",,,,way
@@ -13951,7 +13951,6 @@ Muizenberg,,,,relation
 "NY 86",,,,way
 "NY 87",,,,way
 "NY 88",,,,way
-"NY 89",,,,way
 "NY 9",,,,way
 "NY 90",,,,way
 "NY 91",,,,way
@@ -14917,6 +14916,7 @@ Nouveau,,,,way
 "Oakbury Lane",,,,way
 "Oakbury Road",,,,way
 "Oakdale Circle",,,,way
+"Oakdale Estate",,,,way
 "Oakdale Road",,,,way
 "Oakdale Street",,,,way
 "Oakdale Way",,,,way
@@ -15664,7 +15664,6 @@ Pasteur,,,,way
 "Paulus Road",,,,way
 "Paulus Street",,,,way
 "Paulus Walk",,,,way
-Pavement,,,,way
 "Pavillion Place",,,,way
 "Pavillion Road",,,,way
 "Pavo Street",,,,way
@@ -17274,6 +17273,7 @@ Rondebosch,,,,relation
 "Rondebosch Lane",,,,way
 "Rondebosch Village",,,,relation
 "Rondeheuwel Crescent",,,,way
+"Rondo Way",,,,way
 "Rondolo Close",,,,way
 "Ronel Street",,,,way
 "Ronell Crescent",,,,way
@@ -19934,6 +19934,7 @@ Susan,,,,way
 "Tahoe Close",,,,way
 "Tahoe Road",,,,way
 "Tailor Green",,,,way
+"Taita Street",,,,way
 "Takani Road",,,,way
 "Takbok Road",,,,way
 "Tala Crescent",,,,way
@@ -19999,7 +20000,6 @@ Tamboerskloof,,,,relation
 "Tanner Road",,,,way
 "Tano Street",,,,way
 "Tanqua Street",,,,way
-"Tanta Street",,,,way
 "Tantallion Close",,,,way
 "Tantallon Close",,,,way
 "Tantallon Court",,,,way
@@ -22390,7 +22390,7 @@ Wilgenhof,,,,way
 "Willet Street",,,,way
 "William Arendse Road",,,,way
 "William Close",,,,way
-"William Dabs Road",,,,way
+"William Dabbs Road",,,,way
 "William Frederick Road",,,,way
 "William Gourlay Street",,,,way
 "William Hartel Street",,,,way
