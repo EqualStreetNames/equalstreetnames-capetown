@@ -113,17 +113,17 @@ name,source,gender,wikidata,type
 "7th Avenue",,,,way
 "7th Street",,,,way
 "8th Avenue",,,,way
+"8th Road",,,,way
 "8th Street",,,,way
 "9th Avenue",,,,way
 "9th Road",,,,way
 "9th Street",,,,way
 A,,,,way
-"A Ngqika Avenue",,,,way
 "A P Burger Avenue",,,,way
 "A. Franch Avenue",,,,way
 "A. Jakob Road",,,,way
+"A. Ngqika Avenue",,,,way
 "A. Siwa Street",,,,way
-"A. Z. Berman Drive",,,,way
 "A.C. Milan Road",,,,way
 "A.D. Keet Road",,,,way
 "A.G. Visser Street",,,,way
@@ -1611,6 +1611,7 @@ Balmoral,,,,way
 "Baronrath Road",,,,way
 "Barque Close",,,,way
 "Barque Crescent",,,,way
+"Barrack Road",,,,way
 "Barrack Street",,,,way
 "Barracuda Crescent",,,,way
 "Barracuda Street",,,,way
@@ -3149,14 +3150,14 @@ Burgandy,,,,way
 "Byron Road",,,,way
 "Byron Street",,,,way
 "Bywater Street",,,,way
-"C. L. Adams Avenue",,,,way
 "C. Louis Leipoldt Street",,,,way
 "C. Makhwethu Crescent",,,,way
 "C. Zweni Street",,,,way
+"C.J. Langenhoven Road",,,,way
 "C.J. Langenhoven Street",,,,way
+"C.J. Nabe Way",,,,way
+"C.L. Adams Avenue",,,,way
 "C.M. van den Heever Street",,,,way
-"CJ Langenhoven Road",,,,way
-"CJ Nabe Way",,,,way
 "Cabernet Avenue",,,,way
 "Cabernet Close",,,,way
 "Cabernet Crescent",,,,way
@@ -3820,7 +3821,6 @@ Champagne,,,,way
 "Charles Way",,,,way
 "Charlie Brown Street",,,,way
 "Charlie Etson Avenue",,,,way
-"Charlie Street",,,,way
 "Charlie Wer Way",,,,way
 "Charlo Street",,,,way
 "Charlotte Street",,,,way
@@ -4600,7 +4600,6 @@ Crawford,,,,relation
 "Creek Close",,,,way
 "Creekside Road",,,,way
 "Creon Close",,,,way
-"Cres Twenty Five Crescent",,,,way
 "Cres Twenty Five Road",,,,way
 "Crescendo Road",,,,way
 "Crescent Close",,,,way
@@ -6004,10 +6003,6 @@ Eenzaam,,,,way
 "Eiffel Close",,,,way
 "Eight Avenue",,,,way
 "Eighteen Road",,,,way
-"Eighteenth Avenue",,,,way
-"Eighth Road",,,,way
-"Eighth Street",,,,way
-"Eigtheenth Avenue",,,,way
 "Eike Avenue",,,,way
 "Eike Close",,,,way
 "Eike Street",,,,way
@@ -6076,7 +6071,6 @@ Eikendal,,,,way
 "Elevated Drop & Go Road",,,,way
 "Eleven Ocean Road",,,,way
 "Eleven Road",,,,way
-"Eleventh Avenue",,,,way
 "Elf Road",,,,way
 "Elffers Road",,,,way
 "Elfin Avenue",,,,way
@@ -6293,7 +6287,7 @@ Erica,,,,way
 "Esme Road",,,,way
 "Espel Close",,,,way
 "Esperance Street",,,,way
-"Espiegle Street",,,,way
+"Espiegel Street",,,,way
 "Esplanade Road",,,,way
 "Esplanade Street",,,,way
 "Essam Road",,,,way
@@ -6637,8 +6631,6 @@ Fenqe,,,,way
 "Fife Road",,,,way
 "Fiford Crescent",,,,way
 "Fifteen Crescent",,,,way
-"Fifteenth Avenue",,,,way
-"Fifth Avenue",,,,way
 "Fig Road",,,,way
 "Fig Street",,,,way
 "Figaro Crescent",,,,way
@@ -6700,7 +6692,6 @@ Firethorn,,,,way
 "Firmount Road",,,,way
 "Firs Avenue",,,,way
 "Firs Road",,,,way
-"First Avenue",,,,way
 "Firth Road",,,,way
 "Firtree Street",,,,way
 "Firwood Crescent",,,,way
@@ -6928,9 +6919,6 @@ Forest,,,,way
 "Fourie Road",,,,way
 "Fourland Close",,,,way
 "Fourteen Road",,,,way
-"Fourteenth Avenue",,,,way
-"Fourth Avenue",,,,way
-"Fourth Street",,,,way
 "Fowes Road",,,,way
 "Fowzia Close",,,,way
 "Fox Plain",,,,way
@@ -7121,9 +7109,9 @@ Fresnaye,,,,relation
 "Fynbos Street",,,,way
 "Fynbosch Close",,,,way
 "Fynn Close",,,,way
-"G, Shope Road",,,,way
 "G. Nake Street",,,,way
 "G. Ntamo Street",,,,way
+"G. Shope Road",,,,way
 "Gaba Street",,,,way
 "Gabada Street",,,,way
 "Gabbro Crescent",,,,way
@@ -8127,8 +8115,8 @@ Guardian,,,,way
 "Gypsum Road",,,,way
 "Gyrfalcon Way",,,,way
 "H. Joseph Street",,,,way
-"H. L. de Villiers Road",,,,way
-"H. O. De Villiers Street",,,,way
+"H.L. de Villiers Road",,,,way
+"H.O. de Villiers Street",,,,way
 "H.P. van Vuuren Road",,,,way
 "Haakdoring Street",,,,way
 "Haakon Close",,,,way
@@ -9466,17 +9454,18 @@ Iris,,,,way
 "Ixia Street",,,,way
 "Ixilongo Street",,,,way
 "Izuba Street",,,,way
-"J. F. Cilliers Street",,,,way
 "J. Galloweni Road",,,,way
-"J. K. Mtyekisane Street",,,,way
 "J. Makateng Street",,,,way
 "J. Modise Street",,,,way
 "J. Naido Avenue",,,,way
 "J. Naidoo Avenue",,,,way
 "J. Nontula Crescent",,,,way
 "J. Nontulo Street",,,,way
-"J. W. Theron Street",,,,way
 "J.B. Marks Road",,,,way
+"J.F. Cilliers Street",,,,way
+"J.K. Mtyekisane Street",,,,way
+"J.W. Theron Street",,,,way
+"J.Z. Fuku Way",,,,way
 "J.Z. Ndaliso Street",,,,way
 "Jabavu Street",,,,way
 "Jaberhon Crescent",,,,way
@@ -9696,6 +9685,7 @@ Iris,,,,way
 "Jet Street",,,,way
 "Jetstar Crescent",,,,way
 "Jetty 1",,,,way
+"Jetty Road",,,,way
 "Jetty Street",,,,way
 "Jewel Crescent",,,,way
 "Jiba Crescent",,,,way
@@ -9920,7 +9910,6 @@ Jupiter,,,,way
 "Juventus Street",,,,way
 "Juweel Close",,,,way
 "Jwambi Street",,,,way
-"Jz Fuku Way",,,,way
 "K. Didiza Street",,,,way
 "K. Siko Street",,,,way
 "KIldonan Close",,,,way
@@ -10875,12 +10864,12 @@ Kwarts,,,,way
 "Kylemore Road",,,,way
 "L'Avenir Close",,,,way
 "L'Avenir Crescent",,,,way
-"L. C. Steyn Crescent",,,,way
 "L. Dike Street",,,,way
 "L. Eleni Road",,,,way
 "L. Mbuli Street",,,,way
 "L. Ngoyi Street",,,,way
 "L. Yeko Close",,,,way
+"L.C. Steyn Crescent",,,,way
 "La Barrage Avenue",,,,way
 "La Belle Road",,,,way
 "La Boheme Avenue",,,,way
@@ -11996,10 +11985,7 @@ Lusenga,,,,way
 "M. Booi Street",,,,way
 "M. Ceshemba Street",,,,way
 "M. Dyantyi Street",,,,way
-"M. E. Rothman Street",,,,way
 "M. Gigiby Crescent",,,,way
-"M. H. Goldschmidt Avenue",,,,way
-"M. J. Sinclair Crescent",,,,way
 "M. Kafi Street",,,,way
 "M. Kotane Avenue",,,,way
 "M. Mabhida Street",,,,way
@@ -12011,6 +11997,9 @@ Lusenga,,,,way
 "M. Tohalisi Street",,,,way
 "M. Xhinti Street",,,,way
 "M.D. Ntlanganiso Street",,,,way
+"M.E. Rothman Street",,,,way
+"M.H. Goldschmidt Avenue",,,,way
+"M.J. Sinclair Crescent",,,,way
 "M.S. Ntsholo Street",,,,way
 "Maanblom Street",,,,way
 "Maanskynkop Street",,,,way
@@ -13866,7 +13855,7 @@ Muizenberg,,,,relation
 "N. Aggett Avenue",,,,way
 "N. Hoboshe Street",,,,way
 "N. Mgogoshe Street",,,,way
-"N. R. Mandela Road",,,,way
+"N.R. Mandela Road",,,,way
 "N1 City",,,,relation
 "N1 Freeway",,,,way
 "NY 10",,,,way
@@ -14411,7 +14400,6 @@ Nieshout,,,,way
 "Nina Street",,,,way
 "Nine Road",,,,way
 "Nineteen Road",,,,way
-"Ninth Street",,,,way
 "Nippon Street",,,,way
 "Nirvana Street",,,,way
 "Nirvana Way",,,,way
@@ -15359,12 +15347,11 @@ Ottery,,,,relation
 "Oystercatcher Road",,,,way
 "Oystercatcher Street",,,,way
 "P. Kgosane Street",,,,way
-"P. M. Louw Street",,,,way
 "P. Molefe Avenue",,,,way
 "P. Molefe Street",,,,way
 "P. Ndleko Street",,,,way
-"P. W. Mama Way",,,,way
-"PM Louw Street",,,,way
+"P.M. Louw Street",,,,way
+"P.W. Mama Way",,,,way
 "Paalen Court",,,,way
 "Paalkrans Street",,,,way
 "Paardeberg Close",,,,way
@@ -18374,8 +18361,6 @@ Selborne,,,,relation
 "Seven Sleepers Road",,,,way
 "Seven Sleepers Street",,,,way
 "Seventeen Road",,,,way
-"Seventeenth Avenue",,,,way
-"Seventh Avenue",,,,way
 "Severn Close",,,,way
 "Severn Road",,,,way
 "Seville Close",,,,way
@@ -18819,9 +18804,6 @@ Sipres,,,,way
 "Six Road",,,,way
 "Sixaxabesha Street",,,,way
 "Sixteen Road",,,,way
-"Sixteenth Avenue",,,,way
-"Sixth Avenue",,,,way
-"Sixth Street",,,,way
 "Sixwayikati Street",,,,way
 "Sixwila Crescent",,,,way
 "Siyabonga Street",,,,way
@@ -19031,7 +19013,6 @@ Somerford,,,,way
 "Somerset Close",,,,way
 "Somerset Crescent",,,,way
 "Somerset Lane",,,,way
-"Somerset Links Office Park",,,,way
 "Somerset Place",,,,way
 "Somerset Road",,,,way
 "Somerset Street",,,,way
@@ -20282,10 +20263,8 @@ Theunisen,,,,way
 "Thicket Road",,,,way
 "Thicket Street",,,,way
 "Thiele Road",,,,way
-"Third Avenue",,,,way
 "Thirlmere Road",,,,way
 "Thirteen Road",,,,way
-"Thirteenth Avenue",,,,way
 "Thirty One Road",,,,way
 "Thirty Road",,,,way
 "Thistle Avenue",,,,way
@@ -20823,7 +20802,6 @@ Trident,,,,way
 "Twecu Crescent",,,,way
 "Tweed Close",,,,way
 "Tweed Road",,,,way
-"Twelfth Avenue",,,,way
 "Twelve Apostles",,,,way
 "Twelve Apostles Street",,,,way
 "Twelve Road",,,,way
@@ -21786,11 +21764,11 @@ Vrygrond,,,,relation
 "Vygie Way",,,,way
 "W. Mkwayi Avenue",,,,way
 "W. Nzala Street",,,,way
-"W. R. Quinan Boulevard",,,,way
 "W. Songqeqo Street",,,,way
 "W. Stemele Street",,,,way
 "W. Thafeni Street",,,,way
 "W.D. Hambly Road",,,,way
+"W.R. Quinan Boulevard",,,,way
 "WP Park",,,,relation
 "Waaiertjie Crescent",,,,way
 "Waaigras Street",,,,way
@@ -22847,7 +22825,6 @@ Wynberg,,,,relation
 "Zantsi Street",,,,way
 "Zanzibar Road",,,,way
 "Zaragoza Street",,,,way
-"Zarina Complex",,,,way
 "Zarobi Road",,,,way
 "Zastron Road",,,,way
 "Zazulwana Crescent",,,,way
