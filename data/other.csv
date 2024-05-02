@@ -1228,6 +1228,7 @@ Atlantis,,,,relation
 "Austwick Road",,,,way
 "Autumn Close",,,,way
 "Autumn Street",,,,way
+"Avalon Close",,,,way
 "Avalon Road",,,,way
 "Avante Crescent",,,,way
 "Avanti Private Road",,,,way
@@ -3313,6 +3314,7 @@ Cambridge,,,,way
 "Camilla Street",,,,way
 "Camille Close",,,,way
 "Camillia Close",,,,way
+"Camissa Street",,,,way
 "Camoens Avenue",,,,way
 "Camomile Street",,,,way
 "Camp Access Road",,,,way
@@ -3401,7 +3403,6 @@ Canellun,,,,way
 "Cape Point Ostrich Farm",,,,way
 "Cape Point Road",,,,way
 "Cape Snow Street",,,,way
-"Cape Town FE",,,,way
 "Cape Verde Drive",,,,way
 "Cape Verdi Island Street",,,,way
 "Cape Weaver Avenue",,,,way
@@ -3474,6 +3475,7 @@ Caracal,,,,way
 "Carisbrook Street",,,,way
 "Carissa Circle",,,,way
 "Carissa Close",,,,way
+"Carissa Drive",,,,way
 "Carissa Street",,,,way
 "Carks Steps",,,,way
 "Carl Crescent",,,,way
@@ -4305,6 +4307,7 @@ Coimbra,,,,way
 "Collings Road",,,,way
 "Collingwood Road",,,,way
 "Collins Street",,,,way
+"Colmar Crescent",,,,way
 "Colneus Street",,,,way
 "Colombar Close",,,,way
 "Colombar Street",,,,way
@@ -4455,6 +4458,7 @@ Constantia,,,,relation
 "Cook Street",,,,way
 "Cooke Street",,,,way
 "Coombe Road",,,,way
+"Cooper Close",,,,way
 "Cooper Street",,,,way
 "Coopers Close",,,,way
 "Coornhoop Street",,,,way
@@ -7160,6 +7164,7 @@ Fresnaye,,,,relation
 "Funwa Street",,,,way
 "Funza Street",,,,way
 "Fuphi Street",,,,way
+"Furlong Drive",,,,way
 "Furrow Street",,,,way
 "Fuschia Street",,,,way
 "Fushia Street",,,,way
@@ -7881,6 +7886,7 @@ Gousblom,,,,way
 "Grand Vue Avenue",,,,way
 "Grand Vue Road",,,,way
 "Grande Bay Complex",,,,way
+"Grandeur Crescent",,,,way
 "Grandiceps Street",,,,way
 "Grandiflora Road",,,,way
 "Grange Avenue",,,,way
@@ -8044,6 +8050,7 @@ Greta,,,,way
 "Groenhof Close",,,,way
 "Groenkloof Street",,,,way
 "Groenkop Close",,,,way
+"Groenland Crescent",,,,way
 "Groenland Street",,,,way
 "Groenpoort Walk",,,,way
 "Groenvlei Road",,,,way
@@ -8201,6 +8208,7 @@ Guardian,,,,way
 "Haarlem Road",,,,way
 "Haarlem Street",,,,way
 "Haarlem Way",,,,way
+"Haasendal Boulevard",,,,way
 "Haasendal Close",,,,way
 "Haasendal Street",,,,way
 "Habibia Road",,,,way
@@ -13624,6 +13632,7 @@ Morgenster,,,,way
 "Morgenzon Close",,,,way
 "Morgenzon Street",,,,way
 "Morillon Way",,,,way
+"Moringa Way",,,,way
 "Morisot Road",,,,way
 "Morkel Road",,,,way
 "Morkel Street",,,,way
@@ -14374,6 +14383,7 @@ Ndabeni,,,,relation
 "New Street Close",,,,way
 "New Way",,,,way
 "New York Close",,,,way
+"New trail / bypass",,,,way
 "Newark Road",,,,way
 "Newark Street",,,,way
 "Newberry Lane",,,,way
@@ -15118,6 +15128,7 @@ Observatory,,,,relation
 "Octovale Street",,,,way
 "Odendaal Road",,,,way
 "Odette Street",,,,way
+"Odin Close",,,,way
 "Odin Drive",,,,way
 "Odorata Avenue",,,,way
 "Oerder Road",,,,way
@@ -15738,6 +15749,7 @@ Parkwood,,,,relation
 "Parma Crescent",,,,way
 "Paros Place",,,,way
 Parow,,,,relation
+"Parow Centre",,,,way
 "Parow East",,,,relation
 "Parow North",,,,relation
 "Parow Road",,,,way
@@ -16650,6 +16662,7 @@ Prunus,,,,way
 "Puffer Street",,,,way
 "Puffin Crescent",,,,way
 "Puffin Way",,,,way
+"Pugsli Road",,,,way
 "Pula Road",,,,way
 "Pule Raboroko Road",,,,way
 "Pulteney Road",,,,way
@@ -16788,6 +16801,7 @@ Qunube,,,,way
 "Qwarhashe Street",,,,way
 "Qwesha Street",,,,way
 "R. Sobukwe Street",,,,way
+RH,,,,way
 "Raadt Street",,,,way
 "Raan Street",,,,way
 "Raap Street",,,,way
@@ -19585,6 +19599,7 @@ Stellenberg,,,,way
 "Stellenryk Street",,,,way
 "Stemberry Street",,,,way
 "Stemmet Road",,,,way
+"Stephan Way",,,,way
 "Stephanie Street",,,,way
 "Stephen Road",,,,way
 "Stephen Street",,,,way
@@ -19597,6 +19612,7 @@ Stellenberg,,,,way
 "Stepping Stones Road",,,,way
 "Ster Street",,,,way
 "Sterappel Crescent",,,,way
+"Sterhuis Crescent",,,,way
 "Sterlig Road",,,,way
 "Sterling Crescent",,,,way
 "Sterling Grove Crescent",,,,way
@@ -21076,6 +21092,7 @@ Tygerdal,,,,relation
 "Tyne Street",,,,way
 "Tynemouth Road",,,,way
 "Typhoon Street",,,,way
+"Tyrell Road",,,,way
 "Tyrian Close",,,,way
 "Tyrian Road",,,,way
 "Tyrone Close",,,,way
@@ -22689,6 +22706,7 @@ Wingfield,,,,relation
 "Winnie Mandela Road",,,,way
 "Winnie Mandela Street",,,,way
 "Winnie Mandela Way",,,,way
+"Winning Way",,,,way
 "Winnipeg Close",,,,way
 "Winnipeg Road",,,,way
 "Winnipeg Street",,,,way
