@@ -109,6 +109,7 @@ name,source,gender,wikidata,type
 "6th Ext Close",,,,way
 "6th Street",,,,way
 "7 Buttress Traverse",,,,way
+"7 Buttresses Traverse",,,,way
 "700 m Traverse",,,,way
 "7th Avenue",,,,way
 "7th Street",,,,way
@@ -309,7 +310,6 @@ Agate,,,,way
 "Agatha's Gully",,,,way
 "Agena Street",,,,way
 "Agincourt Way",,,,way
-"Agnes Crescent",,,,way
 "Agnes Road",,,,way
 "Agnes Zantsi Street",,,,way
 "Agretjie Road",,,,way
@@ -5474,6 +5474,7 @@ Dijon,,,,way
 "Dlova Street",,,,way
 "Dludaka Close",,,,way
 "Dobson Close",,,,way
+"Dobson Road",,,,way
 "Docav Road",,,,way
 "Dock Road",,,,way
 "Dockrail Road",,,,way
@@ -6662,6 +6663,7 @@ Fenqe,,,,way
 "Fernwood Track",,,,way
 "Fernwood Way",,,,way
 "Fernwood West Drive",,,,way
+"Ferny Dell",,,,way
 "Feroza Adam Road",,,,way
 "Ferrari Crescent",,,,way
 "Ferrier Close",,,,way
@@ -6724,6 +6726,7 @@ Finch,,,,way
 "Finch Crescent",,,,way
 "Finch Way",,,,way
 "Finchley Road",,,,way
+"Findon Street",,,,way
 "Finger Close",,,,way
 "Finistere Road",,,,way
 "Fink Road",,,,way
@@ -8345,6 +8348,7 @@ Hangklip,,,,way
 "Hantamsberg Street",,,,way
 "Hants Road",,,,way
 "Happiness Street",,,,way
+"Harbour Arch Blvd",,,,way
 "Harbour Close",,,,way
 "Harbour Heights Close",,,,way
 "Harbour Heights Drive",,,,way
@@ -8615,6 +8619,7 @@ Heideveld,,,,relation
 "Helios Close",,,,way
 "Hella Crescent",,,,way
 "Hellenburgh Road",,,,way
+"Hellenic Court",,,,way
 "Helliger Lane",,,,way
 "Helling Street",,,,way
 "Helmet Street",,,,way
@@ -10112,6 +10117,7 @@ Kanonkop,,,,way
 "Kapa Close",,,,way
 "Kapalua Street",,,,way
 "Kapama Street",,,,way
+"Kapenhoek Road",,,,way
 "Kapokberg Crescent",,,,way
 "Kapokblom Street",,,,way
 "Kapokkie Street",,,,way
@@ -11524,6 +11530,7 @@ Libertas,,,,way
 "Liesbeek Road West",,,,way
 "Liesbeek Way",,,,way
 "Liesbeek West Road",,,,way
+"Liesbeel Trail",,,,way
 "Lighthouse Keeper's Trail",,,,way
 "Lighthouse Road",,,,way
 "Lightning Road",,,,way
@@ -12930,6 +12937,7 @@ Meadowridge,,,,relation
 "Mediterranean Street",,,,way
 "Medlar Street",,,,way
 "Medoc Road",,,,way
+"Medusa Court",,,,way
 "Medway Crescent",,,,way
 "Medway Road",,,,way
 "Meebos Street",,,,way
@@ -13170,6 +13178,7 @@ Metro,,,,relation
 "Micro Street",,,,way
 "Mid Ocean Mews",,,,way
 "Mida Crescent",,,,way
+"Midas Court",,,,way
 "Midas Crescent",,,,way
 "Middel Road",,,,way
 "Middel Street",,,,way
@@ -14355,6 +14364,7 @@ Ndabeni,,,,relation
 "Nero Link",,,,way
 "Nero Street",,,,way
 "Nerve Square",,,,way
+"Nestor Court",,,,way
 "Netball Crescent",,,,way
 "Nethi Close",,,,way
 "Neto Street",,,,way
@@ -15160,6 +15170,7 @@ Okavango,,,,way
 "Old Faure Road",,,,way
 "Old Kendal Close",,,,way
 "Old Kendal Road",,,,way
+"Old Klipfontein Road",,,,way
 "Old Kommetjie Road",,,,way
 "Old Lansdowne Road",,,,way
 "Old Main Road",,,,way
@@ -15440,7 +15451,6 @@ Ottery,,,,relation
 "Otto Du Plessis Road",,,,way
 "Otto Meyer Avenue",,,,way
 "Otto du Plessis Drive",,,,way
-"Ou Kaapse Road",,,,way
 "Ou Kaapse Weg",,,,way
 "Ou Kraal Way",,,,way
 "Ou Skip Road",,,,way
@@ -19889,6 +19899,7 @@ Suikerbekkie,,,,way
 "Sunflower Close",,,,way
 "Sunflower Crescent",,,,way
 "Sunflower Road",,,,way
+"Sunflower Street",,,,way
 "Sunflower Way",,,,way
 "Sunhill Close",,,,way
 "Sunhill Estate Street",,,,way
@@ -20275,6 +20286,7 @@ Taurus,,,,way
 "Telle Street",,,,way
 "Temba Crescent",,,,way
 "Tembalethu Street",,,,way
+"Tembe Road",,,,way
 "Tembisile Tuku Street",,,,way
 "Tembu Street",,,,way
 "Temperance Road",,,,way
@@ -23110,6 +23122,7 @@ Zeekoevlei,,,,relation
 "Zeppelin Street",,,,way
 "Zero Close",,,,way
 "Zethu Street",,,,way
+"Zeus Close",,,,way
 "Zeus Drive",,,,way
 "Zeus Street",,,,way
 "Zevendal Way",,,,way
