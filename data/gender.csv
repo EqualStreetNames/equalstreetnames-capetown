@@ -1,8 +1,11 @@
 name,source,gender,wikidata,type
+"Albertina Sisulu Crescent",wikidata,F,Q467744,way
 "Helen Suzman Boulevard",wikidata,F,Q165405,way
 "Queen Victoria Road",wikidata,F,Q9439,way
 "Queen Victoria Street",wikidata,F,Q9439,way
 "Victoria Road",wikidata,F,Q9439,way
+"Winnie Mandela Crescent",wikidata,F,Q239062,way
+"Winnie Mandela Street",wikidata,F,Q239062,way
 "Avenue Saint Leon",wikidata,M,Q558148,way
 "Christiaan Barnard Street",wikidata,M,Q188803,way
 "Churchill Road",wikidata,M,Q8016,way
@@ -26,6 +29,7 @@ name,source,gender,wikidata,type
 "Rembrandt Road",wikidata,M,Q5598,way
 "Rhodes Drive",wikidata,M,Q19825,way
 "Riebeek Lane",wikidata,M,Q294769,way
+"Riebeek Square",wikidata,M,Q294769,way
 "Riebeek Street",wikidata,M,Q294769,way
 "Roosevelt Road",wikidata,M,Q8007,way
 "Saint Andrews Road",wikidata,M,Q43399,way
@@ -34,4 +38,9 @@ name,source,gender,wikidata,type
 "Saint Thomas Road",wikidata,M,Q43669,way
 "Sir George Grey Street",wikidata,M,Q76821,way
 "Sir Lowry Road",wikidata,M,Q346470,way
+"Solomon Mahlangu Crescent",wikidata,M,Q3470055,way
+"Solomon Mahlangu Road",wikidata,M,Q3470055,way
 "W. Sisulu Road",wikidata,M,Q440490,way
+"Walter Sisulu Avenue",wikidata,M,Q440490,way
+"Walter Sisulu Road",wikidata,M,Q440490,way
+"Walter Sisulu Street",wikidata,M,Q440490,way
