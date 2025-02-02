@@ -367,6 +367,7 @@ Agulhas,,,,way
 "Akker Street",,,,way
 "Akkerboom Avenue",,,,way
 "Akkerboom Road",,,,way
+"Akkerboom Street",,,,way
 "Akkerdal Avenue",,,,way
 "Akkerdal Close",,,,way
 "Akkerdraai Crescent",,,,way
@@ -1667,8 +1668,8 @@ Balmoral,,,,way
 "Barwing Court",,,,way
 "Barwon Street",,,,way
 "Basakabini Street",,,,way
-Basalt,,,,way
 "Basalt Close",,,,way
+"Basalt Street",,,,way
 "Basboom Street",,,,way
 "Bascule Bridge",,,,way
 "Basel Basset Street",,,,way
@@ -1823,6 +1824,7 @@ Beaconvale,,,,relation
 "Beaverhead Lane",,,,way
 "Beck Crescent",,,,way
 "Beck Street",,,,way
+"Becket Street",,,,way
 "Beckham Street",,,,way
 "Becott Road",,,,way
 "Bedford Road",,,,way
@@ -4036,6 +4038,7 @@ Chipphillside,,,,way
 "Chipstead Way",,,,way
 "Chitha Street",,,,way
 "Chitten Way",,,,way
+"Chitton Way",,,,way
 "Chives Street",,,,way
 "Choir Street",,,,way
 "Chokeberry Road",,,,way
@@ -5170,6 +5173,7 @@ Dawson,,,,way
 "Dean Avenue",,,,way
 "Dean Lane",,,,way
 "Dean Street",,,,way
+"Deane Road",,,,way
 "Deauville Circle",,,,way
 "Debaren Close",,,,way
 "Debbie Close",,,,way
@@ -6298,7 +6302,6 @@ Ennerdale,,,,way
 "Ensor Street",,,,way
 "Enterprise Way",,,,way
 "Entokozweni Street",,,,way
-"Entrance to Ostrich Farm",,,,way
 Envoy,,,,way
 "Enza Circle",,,,way
 "Eoan Avenue",,,,way
@@ -6804,6 +6807,7 @@ Firethorn,,,,way
 "Fischer Street",,,,way
 "Fish Court",,,,way
 "Fish Crescent",,,,way
+"Fish Eagle Avenue",,,,way
 "Fish Eagle Close",,,,way
 "Fish Eagle Park",,,,way
 "Fish Eagle Place",,,,way
@@ -7743,6 +7747,7 @@ Glenwood,,,,relation
 "Goewerneur Street",,,,way
 "Gogaza Street",,,,way
 "Gogman Street",,,,way
+"Gogosoa Street",,,,way
 "Gogoza Street",,,,way
 "Gogwana Street",,,,way
 "Golconda Street",,,,way
@@ -8250,6 +8255,7 @@ Gugulethu,,,,way
 "Haasendal Street",,,,way
 "Habibia Road",,,,way
 "Habile Street",,,,way
+"Habitat Close",,,,way
 "Hackberry Court",,,,way
 "Hackensack Street",,,,way
 "Hackius Street",,,,way
@@ -10265,6 +10271,7 @@ Katjiepiering,,,,way
 "Kazinga Street",,,,way
 "Kearney Hill Crescent",,,,way
 "Keast Street",,,,way
+"Keating Street",,,,way
 "Keating Way",,,,way
 "Keats Road",,,,way
 "Kebbi Court",,,,way
@@ -12427,6 +12434,7 @@ Maitland,,,,relation
 "Malvern Street",,,,way
 Mamba,,,,way
 "Mamela Street",,,,way
+Mamre,,,,relation
 "Mamre Road",,,,way
 "Mamre Street",,,,way
 "Manakaza Street",,,,way
@@ -14364,7 +14372,6 @@ Ndabeni,,,,relation
 "New Church Street",,,,way
 "New Close",,,,way
 "New Eisleben Road",,,,way
-"New Entrance to Ostrich Farm",,,,way
 "New Forest Crescent",,,,way
 "New Haven",,,,way
 "New Mill Road",,,,way
@@ -15168,7 +15175,6 @@ Okavango,,,,way
 "Old Mutual Drive",,,,way
 "Old Nectar Road",,,,way
 "Old Nectar Way",,,,way
-"Old Nooiensfontein Drive",,,,way
 "Old Nooiensfontein Road",,,,way
 "Old Oak Park",,,,way
 "Old Oak Road",,,,way
@@ -15521,6 +15527,7 @@ Ottery,,,,relation
 "Oyster Lane",,,,way
 "Oyster Street",,,,way
 "Oystercatcher Close",,,,way
+"Oystercatcher Lane",,,,way
 "Oystercatcher Road",,,,way
 "Oystercatcher Street",,,,way
 "P. Kgosane Street",,,,way
@@ -18339,6 +18346,7 @@ Scarborough,,,,relation
 "Scharmberg Street",,,,way
 "Scheckter Road",,,,way
 "Scheele Street",,,,way
+"Scheffers Street",,,,way
 "Scheldt Street",,,,way
 "Scheldt Walk",,,,way
 "Schiebe Street",,,,way
@@ -18881,6 +18889,7 @@ Silvertown,,,,relation
 "Silvertree Lane",,,,way
 "Silvertree Road",,,,way
 "Silvertree Street",,,,way
+"Silvertree Trail",,,,way
 "Silverwater Street",,,,way
 "Silverwood Close",,,,way
 "Silverwood Road",,,,way
@@ -19051,7 +19060,7 @@ Sipres,,,,way
 "Skapenberg Crescent",,,,way
 "Skapu Street",,,,way
 "Skeerkwas Road",,,,way
-"Skeleton Gorge",,,,way
+"Skeleton Gorge / Smuts Track",,,,way
 "Skeleton Street",,,,way
 "Skemerzicht Close",,,,way
 "Skepe C. Square",,,,way
@@ -19678,6 +19687,7 @@ Stellenberg,,,,way
 "Stinkwood Drive",,,,way
 "Stinkwood Road",,,,way
 "Stinkwood Street",,,,way
+"Stinkwood Trail",,,,way
 "Stint Road",,,,way
 "Stirling Close",,,,way
 "Stirling Road",,,,way
@@ -20800,6 +20810,7 @@ Tortoise,,,,way
 "Tourain Street",,,,way
 "Touraine Avenue",,,,way
 "Touraine Close",,,,way
+"Tourmalet Street",,,,way
 "Tourmaline Avenue",,,,way
 "Tournesol Avenue",,,,way
 "Tourville Crescent",,,,way
@@ -22911,6 +22922,7 @@ Woodbridge,,,,way
 "Wycombe Avenue",,,,way
 "Wydah Link",,,,way
 "Wydgelee Crescent",,,,way
+"Wye Lane",,,,way
 "Wye Road",,,,way
 "Wyecroft Road",,,,way
 "Wyehill Close",,,,way
@@ -22995,6 +23007,8 @@ Wynberg,,,,relation
 "Yellowwood Drive",,,,way
 "Yellowwood Road",,,,way
 "Yellowwood Street",,,,way
+"Yellowwood Trail",,,,way
+"Yellowwood Trail / Smuts Track",,,,way
 "Yellowwood Traverse",,,,way
 "Yellowwood Tree",,,,way
 "Yena Street",,,,way
