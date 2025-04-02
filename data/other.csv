@@ -276,6 +276,7 @@ Adagio,,,,way
 "Adonis Close",,,,way
 "Adonis Street",,,,way
 "Adonis Way",,,,way
+"Adour Street",,,,way
 "Adriaanse Avenue",,,,way
 "Adrian Herbert Road",,,,way
 "Adrian Louw Street",,,,way
@@ -415,6 +416,7 @@ Albatross,,,,way
 "Albert Road",,,,way
 "Albert Shweni Street",,,,way
 "Albert Street",,,,way
+"Albert Thomas Road",,,,way
 "Alberta Street",,,,way
 "Alberta Way",,,,way
 "Albertersia Crescent",,,,way
@@ -1454,6 +1456,7 @@ Backtrack,,,,way
 Balalaika,,,,way
 "Baldur Close",,,,way
 "Baldwin Avenue",,,,way
+"Baldy Lane",,,,way
 Balearic,,,,way
 "Baleen Drive",,,,way
 "Baleia Road",,,,way
@@ -1539,7 +1542,6 @@ Balmoral,,,,way
 "Bantam Street",,,,way
 "Banti Crescent",,,,way
 "Bantry Bay",,,,relation
-"Bantry Lane",,,,way
 "Bantry Road",,,,way
 "Bantry Steps",,,,way
 "Bantry Way",,,,way
@@ -1833,6 +1835,7 @@ Beaconvale,,,,relation
 "Bedford Street",,,,way
 "Bedford Way",,,,way
 "Bedfordshire Close",,,,way
+"Bedgebury Street",,,,way
 "Bee Eater Close",,,,way
 "Beech Close",,,,way
 "Beech Crescent",,,,way
@@ -1961,6 +1964,7 @@ Belmondo,,,,way
 "Benbow Road",,,,way
 "Benbow Street",,,,way
 "Bend Road",,,,way
+"Bendor Street",,,,way
 "Benfica Road",,,,way
 "Benfica Street",,,,way
 "Bengal Street",,,,way
@@ -2575,6 +2579,7 @@ Bokmakierie,,,,way
 "Bonita Crescent",,,,way
 "Bonita Street",,,,way
 "Bonito Close",,,,way
+"Bonjor Crescent",,,,way
 "Bonke Street",,,,way
 "Bonkolo Drive",,,,way
 "Bonn Road",,,,way
@@ -2607,6 +2612,7 @@ Bonteheuwel,,,,relation+way
 Boomslang,,,,way
 "Boonzaaier Street",,,,way
 "Bootes Close",,,,way
+"Booysen Close",,,,way
 "Bopha Close",,,,way
 "Borcherds Quarry Road",,,,way
 "Bordeaux Avenue",,,,way
@@ -3050,6 +3056,7 @@ Brunswick,,,,way
 "Buckwheat Way",,,,way
 "Bud Road",,,,way
 "Buddleia Street",,,,way
+"Budhi Crescent",,,,way
 "Budock Road",,,,way
 "Buenos Aires Street",,,,way
 "Buff Close",,,,way
@@ -3947,6 +3954,7 @@ Chateau,,,,way
 "Chelsea Lane",,,,way
 "Chelsea Road",,,,way
 "Chelsea Street",,,,way
+"Chelsea Walk",,,,way
 "Cheltenham Ridge",,,,way
 "Cheltenham Road",,,,way
 "Chemist Mlungu Street",,,,way
@@ -3961,6 +3969,7 @@ Chateau,,,,way
 "Chenoua Road",,,,way
 Chenoweth,,,,way
 "Chepstow Road",,,,way
+"Chepstow Street",,,,way
 "Chepstowe Road",,,,way
 "Cherbourg Avenue",,,,way
 "Cherbourg Road",,,,way
@@ -4186,6 +4195,7 @@ Claremont,,,,relation
 "Clariette Close",,,,way
 "Clarinet Avenue",,,,way
 "Clarinet Close",,,,way
+"Clark Lane",,,,way
 "Clark Road",,,,way
 "Clarke Avenue",,,,way
 "Clarkeson Street",,,,way
@@ -5302,6 +5312,7 @@ Dennewoud,,,,way
 Deodar,,,,way
 "Deodar Road",,,,way
 "Deodar Street",,,,way
+"Deomali Lane",,,,way
 "Department Road",,,,way
 "Depsiton Crescent",,,,way
 "Deptford Crescent",,,,way
@@ -5445,12 +5456,14 @@ Dijon,,,,way
 "Dikkop Way",,,,way
 "Diko Street",,,,way
 "Diliya Close",,,,way
+"Diliya Street",,,,way
 "Dill Court",,,,way
 "Dilo Street",,,,way
 "Diluta Drive",,,,way
 "Dimba Road",,,,way
 "Dimbaza Road",,,,way
 "Dimlang Street",,,,way
+"Dinara Lane",,,,way
 "Dinard Road",,,,way
 "Dinder Crescent",,,,way
 "Dingaans Ridge",,,,way
@@ -5520,8 +5533,8 @@ Dijon,,,,way
 "Doctor Ervin Toms Street",,,,way
 "Doctor Fabian Riberio Road",,,,way
 "Doctor Fabian Riberio Walk",,,,way
-"Doctor Juma Street",,,,way
 "Doctor Moerat Street",,,,way
+"Doctor Xuma Street",,,,way
 "Doddington Street",,,,way
 "Doddington Way",,,,way
 "Dodds Road",,,,way
@@ -6670,6 +6683,7 @@ Feinauer,,,,way
 "Fenoe Street",,,,way
 Fenqe,,,,way
 "Fenton Road",,,,way
+"Fenton Street",,,,way
 "Fenwick Street",,,,way
 "Fenyang Street",,,,way
 "Ferdinand Street",,,,way
@@ -6876,6 +6890,7 @@ Firethorn,,,,way
 "Flamink Street",,,,way
 "Flanders Road",,,,way
 "Flanders Walk",,,,way
+"Flat Lane",,,,way
 "Flat Road",,,,way
 "Flavia Way",,,,way
 "Fleet Street",,,,way
@@ -6890,6 +6905,7 @@ Firethorn,,,,way
 "Fleur de Cap Street",,,,way
 "Fleur de lis Crescent",,,,way
 "Flight Road",,,,way
+"Flinders Lane",,,,way
 "Flint Road",,,,way
 "Flintdale Road",,,,way
 "Flintlock Street",,,,way
@@ -6905,6 +6921,7 @@ Firethorn,,,,way
 "Floribunda Street",,,,way
 "Florida Close",,,,way
 "Florida Road",,,,way
+"Florida Steps",,,,way
 "Florida Street",,,,way
 "Flounder Crescent",,,,way
 "Flow Street",,,,way
@@ -7076,6 +7093,7 @@ Forest,,,,way
 "Frangipani Road",,,,way
 "Frangipani Street",,,,way
 "Frank Avenue",,,,way
+"Frank Brown Street",,,,way
 "Frank Louw Avenue",,,,way
 "Frank Road",,,,way
 "Frank Robb Street",,,,way
@@ -8390,6 +8408,7 @@ Hangklip,,,,way
 "Hans Aschenborn Road",,,,way
 "Hans Ras Road",,,,way
 "Hans Street",,,,way
+"Hans Strijdom Avenue Bus Lane",,,,way
 "Hans Strydom Street",,,,way
 "Hansel Road",,,,way
 "Hansen Road",,,,way
@@ -8600,6 +8619,7 @@ Heathfield,,,,relation
 "Hector Crescent",,,,way
 "Hector Petersen",,,,way
 "Hector Peterson Avenue",,,,way
+"Hector Peterson Street",,,,way
 "Hector Road",,,,way
 "Hector Street",,,,way
 "Hedge Lane",,,,way
@@ -8608,6 +8628,7 @@ Heemraden,,,,way
 "Heere Street",,,,way
 Heerengracht,,,,way
 "Heerengracht Boulevard",,,,way
+"Heerengracht Boulevard Bus Lane",,,,way
 "Heerengracht Bus Lane",,,,way
 "Heerengracht Close",,,,way
 "Heerengracht Road",,,,way
@@ -9221,6 +9242,7 @@ Houhoek,,,,way
 "Huntingdon Road",,,,way
 "Huntley Street",,,,way
 "Hurley Road",,,,way
+"Huron Lane",,,,way
 "Huron Street",,,,way
 "Hurricane Road",,,,way
 "Hurricane Street",,,,way
@@ -11374,6 +11396,7 @@ Largo,,,,way
 "Lebanon Lane",,,,way
 "Lebanon Way",,,,way
 "Lebensraum Street",,,,way
+"Lebo Mathusa Street",,,,way
 "Lebombo Crescent",,,,way
 "Lebombo Way",,,,way
 "Leccino Terrace",,,,way
@@ -11857,6 +11880,7 @@ Loevenstein,,,,relation
 "Lombard Crescent",,,,way
 "Lombard Road",,,,way
 "Lombard's Terra",,,,way
+"Lombo Road",,,,way
 "Lomela Court",,,,way
 "Lomond Crescent",,,,way
 "Lomond Street",,,,way
@@ -12047,6 +12071,7 @@ Lovebird,,,,way
 "Lucerne Road",,,,way
 "Lucius Way",,,,way
 "Luckhoff Street",,,,way
+"Lucky Dube Street",,,,way
 "Lucullus Road",,,,way
 "Lucy's Lane",,,,way
 "Ludgate Road",,,,way
@@ -12099,6 +12124,7 @@ Lupin,,,,way
 "Lupin Road",,,,way
 "Lupin Street",,,,way
 "Lupine Road",,,,way
+"Lusaseni Road",,,,way
 Lusenga,,,,way
 "Lusesiki Street",,,,way
 "Lusitania Lane",,,,way
@@ -12275,6 +12301,7 @@ Macaw,,,,way
 "Mafeking Road",,,,way
 "Mafunga Crescent",,,,way
 "Mafunka Crescent",,,,way
+"Mafuya Road",,,,way
 "Magalies Crescent",,,,way
 "Magalies Road",,,,way
 "Magaliesberg Close",,,,way
@@ -12409,12 +12436,14 @@ Maitland,,,,relation
 "Maldives Avenue",,,,way
 "Maleberry Street",,,,way
 "Maleo Court",,,,way
+"Maleo Street",,,,way
 "Malgas Circle",,,,way
 "Malgas Crescent",,,,way
 "Malgas Road",,,,way
 "Malgas Street",,,,way
 "Malherbe Road",,,,way
 "Mali Crescent",,,,way
+"Mali Lane",,,,way
 "Mali Road",,,,way
 "Malibongwe Boulevard",,,,way
 "Malibongwe Drive",,,,way
@@ -12768,6 +12797,7 @@ Mars,,,,way
 "Masizakhe Street",,,,way
 "Maskam Crescent",,,,way
 "Maskerblom Crescent",,,,way
+"Maskew Street",,,,way
 "Masoka Street",,,,way
 "Mason Close",,,,way
 "Masondo Street",,,,way
@@ -12785,7 +12815,7 @@ Mars,,,,way
 "Matapan Road",,,,way
 Mataro,,,,way
 "Mataro Road",,,,way
-"Matata Street",,,,way
+"Matata Crescent",,,,way
 "Mataung Street",,,,way
 "Matchless Road",,,,way
 "Matesla Polokela Street",,,,way
@@ -12808,6 +12838,7 @@ Mataro,,,,way
 "Matlabas Crescent",,,,way
 "Matlock Street",,,,way
 "Matolengwe Crescent",,,,way
+"Matomela Road",,,,way
 "Matomela Street",,,,way
 "Matopo Crescent",,,,way
 "Matopo Road",,,,way
@@ -12954,6 +12985,7 @@ Mataro,,,,way
 "Mboya Crescent",,,,way
 "Mbula Street",,,,way
 "Mbulu Street",,,,way
+"Mbulwana Close",,,,way
 Mbuso,,,,way
 "Mc Beukes Street",,,,way
 "Mc Manus Close",,,,way
@@ -13032,6 +13064,7 @@ Meadowridge,,,,relation
 "Meerhof Avenue",,,,way
 "Meerhof Close",,,,way
 "Meerhof Street",,,,way
+"Meerkins Lane",,,,way
 Meerlust,,,,way
 "Meerlust Avenue",,,,way
 "Meerlust Close",,,,way
@@ -13121,6 +13154,7 @@ Melland,,,,way
 "Meppel Close",,,,way
 "Merchant Road",,,,way
 "Merchant Walk",,,,way
+"Mercia Street",,,,way
 "Mercure Street",,,,way
 Mercurius,,,,way
 Mercury,,,,way
@@ -13491,6 +13525,7 @@ Misteriosa,,,,way
 "Mnama Street",,,,way
 "Mnandi Close",,,,way
 "Mnandi Road",,,,way
+"Mnaphu Road",,,,way
 "Mncedisi Street",,,,way
 "Mndayi Close",,,,way
 "Mnenge Crescent",,,,way
@@ -13502,7 +13537,7 @@ Misteriosa,,,,way
 "Mngeele Street",,,,way
 "Mngeni Street",,,,way
 "Mngomezulu Street",,,,way
-"Mngoundwana Street",,,,way
+"Mngoundwana Close",,,,way
 "Mninawa Crescent",,,,way
 "Mnkcunkcuzo Road",,,,way
 "Mnqabaza Street",,,,way
@@ -14008,6 +14043,7 @@ Muizenberg,,,,relation
 "Murray Street",,,,way
 "Murrayfield Close",,,,way
 "Murrayfield Street",,,,way
+"Murrelet Street",,,,way
 "Murton Road",,,,way
 "Murtz Close",,,,way
 "Musante Close",,,,way
@@ -14256,6 +14292,7 @@ Narcissus,,,,way
 "Ncoma Street",,,,way
 "Ncome Road",,,,way
 "Ncora Street",,,,way
+"Ncorha Street",,,,way
 "Ncotsheni Street",,,,way
 "Ncumo Road",,,,way
 "Ncwadi Crescent",,,,way
@@ -14306,6 +14343,8 @@ Ndabeni,,,,relation
 "Ndwana Crescent",,,,way
 "Ndyebo Street",,,,way
 "Ndyondyo Street",,,,way
+"Ndzakayi Street",,,,way
+"Ndzitshe Close",,,,way
 "Ndzuzo Street",,,,way
 "Neath Road",,,,way
 "Neave Street",,,,way
@@ -14378,7 +14417,6 @@ Ndabeni,,,,relation
 "Nero Crescent",,,,way
 "Nero Link",,,,way
 "Nero Street",,,,way
-"Nerve Square",,,,way
 "Nestor Court",,,,way
 "Netball Crescent",,,,way
 "Nethi Close",,,,way
@@ -14696,6 +14734,7 @@ Nieshout,,,,way
 "Nobuhle Street",,,,way
 "Nobuhle Way",,,,way
 "Nobulali Street",,,,way
+"Nocawe Street",,,,way
 "Nochulu Crescent",,,,way
 "Nodasa Street",,,,way
 "Nodliwa Street",,,,way
@@ -15127,6 +15166,7 @@ Oaklands,,,,way
 "Oban Road",,,,way
 "Obelisk Road",,,,way
 "Obelisk Walk",,,,way
+"Ober Lane",,,,way
 "Oberon Crescent",,,,way
 "Oberon Way",,,,way
 "Oboe Close",,,,way
@@ -16050,6 +16090,7 @@ Peregrine,,,,way
 "Perth Street",,,,way
 "Peru Street",,,,way
 "Pescadora Crescent",,,,way
+"Pescara Street",,,,way
 "Pesika Road",,,,way
 "Pesto Close",,,,way
 "Peta Walk",,,,way
@@ -16089,6 +16130,7 @@ Petunia,,,,way
 "Petunia Road",,,,way
 "Petunia Street",,,,way
 "Peugeot Crescent",,,,way
+"Peyrol Street",,,,way
 "Peyton Place",,,,way
 "Phakama Street",,,,way
 "Phakamani Road",,,,way
@@ -17638,6 +17680,7 @@ Rosebank,,,,relation
 "Roy Campbell Crescent",,,,way
 "Roy De Vries",,,,way
 "Roy Dewar Close",,,,way
+"Roy Lane",,,,way
 "Roy Road",,,,way
 "Roy Road East",,,,way
 "Royal Avenue",,,,way
@@ -18466,6 +18509,7 @@ Schotia,,,,way
 "Sea View Street",,,,way
 "Sea Way",,,,way
 "Sea Wheat Way",,,,way
+"Seacliff Road",,,,way
 "Seacliffe Road",,,,way
 "Seafarer Close",,,,way
 "Seafarer Drive",,,,way
@@ -19978,6 +20022,7 @@ Sunnydale,,,,relation
 "Sunrise Circle",,,,way
 "Sunrise Close",,,,way
 "Sunrise Crescent",,,,way
+"Sunrise Lane",,,,way
 "Sunrise Road",,,,way
 "Sunrise Way",,,,way
 "Sunset Avenue",,,,way
@@ -20254,6 +20299,7 @@ Tamboerskloof,,,,relation
 "Tanner Road",,,,way
 "Tano Street",,,,way
 "Tanqua Street",,,,way
+"Tansa Lane",,,,way
 "Tantallion Close",,,,way
 "Tantallon Close",,,,way
 "Tantallon Court",,,,way
@@ -20262,6 +20308,7 @@ Tamboerskloof,,,,relation
 "Tanya Close",,,,way
 "Tanzanite Boulevard",,,,way
 "Taoge Court",,,,way
+"Tapaculo Street",,,,way
 "Tapiola Way",,,,way
 "Tara Close",,,,way
 "Tara Road",,,,way
@@ -20535,6 +20582,7 @@ Thembisa,,,,way
 "Thengimfene Street",,,,way
 "Theo Marius Go-Kart Track",,,,way
 "Theo Street",,,,way
+"Theodul Street",,,,way
 "Theomar Close",,,,way
 "Theresa Avenue",,,,way
 "Theresa Street",,,,way
@@ -20557,6 +20605,7 @@ Theunisen,,,,way
 "Thicket Road",,,,way
 "Thicket Street",,,,way
 "Thiele Road",,,,way
+"Thina Street",,,,way
 "Thirlmere Road",,,,way
 "Thirteen Road",,,,way
 "Thirty One Road",,,,way
@@ -20684,6 +20733,7 @@ Tijgerhof,,,,relation
 "Timor Close",,,,way
 "Timothy Patrick Street",,,,way
 "Timour Hall Road",,,,way
+"Tinamou Street",,,,way
 "Tinchley Crescent",,,,way
 "Tindale Road",,,,way
 "Tindale Street",,,,way
@@ -20830,7 +20880,7 @@ Tortoise,,,,way
 "Totnes Avenue",,,,way
 "Totnes Road",,,,way
 "Toto Biza Street",,,,way
-"Toto Ndaman Street",,,,way
+"Toto Ndaman Close",,,,way
 "Tottenham Close",,,,way
 "Tottenham Road",,,,way
 "Tottenham Street",,,,way
@@ -20948,6 +20998,7 @@ Trident,,,,way
 "Tritonia Road",,,,way
 "Triumph Street",,,,way
 "Trogon Crescent",,,,way
+"Trogon Street",,,,way
 "Trojan Horse Road",,,,way
 "Trolley Street",,,,way
 "Trombone Close",,,,way
@@ -21742,6 +21793,7 @@ Versailles,,,,way
 "Versveld Avenue",,,,way
 "Versveld Crescent",,,,way
 "Vertrou Road",,,,way
+"Verve Square",,,,way
 "Verveine Avenue",,,,way
 "Verwey Street",,,,way
 "Verwood Road",,,,way
@@ -21800,7 +21852,7 @@ Versailles,,,,way
 "Victory South Street",,,,way
 "Victory Way",,,,way
 "Videl Crescent",,,,way
-"Vido Fumba Street",,,,way
+"Vido Fumba Close",,,,way
 "Vidor Road",,,,way
 "Vienna Street",,,,way
 "Vienna Way",,,,way
@@ -21877,6 +21929,7 @@ Vineyard,,,,way
 "Vink Road",,,,way
 "Vink Street",,,,way
 "Vinkenberg Street",,,,way
+"Vinson Lane",,,,way
 "Vintner's Field",,,,way
 "Viognier Avenue",,,,way
 "Viola Close",,,,way
@@ -22503,6 +22556,7 @@ Welvergenoegd,,,,way
 "West Crescent",,,,way
 "West Drive",,,,way
 "West Forecourt",,,,relation
+"West Lane",,,,way
 "West Link",,,,way
 "West Peak",,,,way
 "West Peak Close",,,,way
@@ -22566,11 +22620,13 @@ Wetton,,,,relation
 "Wezo Road",,,,way
 "Whalers Way",,,,way
 "Wharf Street",,,,way
+"Wharfe Street",,,,way
 "Wheatfield Road",,,,way
 "Wheatfield Street",,,,way
 "Wheatstone Street",,,,way
 "Wheel Tree Way",,,,way
 "Wheelan Street",,,,way
+"Wheeler Lane",,,,way
 "Wherry Road",,,,way
 "Whiddy Crescent",,,,way
 "Whimbrel Lane",,,,way
@@ -22764,6 +22820,7 @@ Windermere,,,,relation
 "Windward Turn",,,,way
 "Winelands Close",,,,way
 "Winery Road",,,,way
+"Winfell Street",,,,way
 "Wingate Crescent",,,,way
 "Wingate Square",,,,way
 "Wingate Village",,,,way
