@@ -3425,6 +3425,7 @@ Canellun,,,,way
 "Cap Classique Close",,,,way
 "Cap Michel Close",,,,way
 "Cape Ash Crescent",,,,way
+"Cape Ash Street",,,,way
 "Cape Bay",,,,way
 "Cape Beach Crescent",,,,way
 "Cape Beach Road",,,,way
@@ -4181,9 +4182,7 @@ Claremont,,,,relation
 "Clarence Street",,,,way
 "Clarenden Road",,,,way
 "Clarendon Close",,,,way
-"Clarendon Complex",,,,way
 "Clarendon Crescent",,,,way
-"Clarendon Hills",,,,way
 "Clarendon Road",,,,way
 "Clarendon Street",,,,way
 "Clarens Road",,,,way
@@ -8182,6 +8181,7 @@ Guardian,,,,way
 Gugulethu,,,,way
 "Gugulethu Seven Street",,,,way
 "Guia Road",,,,way
+"Guild Square",,,,way
 "Guildford Place",,,,way
 "Guildford Road",,,,way
 "Guinea Fowl Crescent",,,,way
@@ -9289,6 +9289,7 @@ Hyland,,,,way
 "Ibis End",,,,way
 "Ibis Road",,,,way
 "Ibis Street",,,,way
+"Ibis Villas",,,,way
 "Ibis Walk",,,,way
 "Ibis Way",,,,way
 "Ibiza Close",,,,way
@@ -11098,7 +11099,6 @@ Kwarts,,,,way
 "La Montagne Avenue",,,,way
 "La Montagne Complex",,,,way
 "La Morita Close",,,,way
-"La Morita Crescent",,,,way
 "La Motte Close",,,,way
 "La Motte Crescent",,,,way
 "La Motte Road",,,,way
@@ -15766,6 +15766,7 @@ Panorama,,,,relation
 "Parakeet Street",,,,way
 "Parana Crescent",,,,way
 "Paratus Avenue",,,,way
+"Parc Pierre",,,,way
 "Pare Road",,,,way
 "Parel Vallei Road",,,,way
 "Parfitt Road",,,,way
@@ -18451,6 +18452,7 @@ Schoongezicht,,,,way
 "Schoongezigt Road",,,,way
 "Schoonvrucht Avenue",,,,way
 Schotia,,,,way
+"Schotia Street",,,,way
 "Schreiner Close",,,,way
 "Schreiner Road",,,,way
 "Schreiner Street",,,,way
@@ -19290,6 +19292,7 @@ Sluysken,,,,way
 "Soldiers Road",,,,way
 "Sole Avenue",,,,way
 "Sole Street",,,,way
+Soleil,,,,way
 "Solero Close",,,,way
 "Solidarity Crescent",,,,way
 "Soliter Street",,,,way
@@ -20871,7 +20874,7 @@ Tortoise,,,,way
 "Tosca Close",,,,way
 "Tosca Crescent",,,,way
 "Toscana Close",,,,way
-"Toscana Villas Complex",,,,way
+"Toscana Villas",,,,way
 "Tosti Street",,,,way
 "Totem Road",,,,way
 "Toti Close",,,,way
@@ -21886,7 +21889,6 @@ Versailles,,,,way
 "Villa Mont Road",,,,way
 "Villa Palazzo Street",,,,way
 "Villa Park",,,,way
-"Villa Pierro Crescent",,,,way
 "Villa Real Road",,,,way
 "Villa Riana",,,,way
 "Villa Road",,,,way
