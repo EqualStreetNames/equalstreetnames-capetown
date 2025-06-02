@@ -76,6 +76,7 @@ name,source,gender,wikidata,type
 "Ottawa Avenue",wikidata,,Q1930,way
 "Pretoria Street",wikidata,,Q3926,way
 "Quebec Road",wikidata,,Q176,way
+"Robben Island",wikidata,,Q466597,relation
 "Rottingdean Road",wikidata,,Q1612583,way
 "Saint Michaels Road",wikidata,,Q45581,way
 "Southern Cross Drive",wikidata,,Q10542,way
@@ -1794,6 +1795,7 @@ Baxter,,,,way
 "Beach Path Gate 2",,,,way
 "Beach Path Gate 3",,,,way
 "Beach Path to Gate 1",,,,way
+"Beach Way",,,,way
 "Beachcomber Bay",,,,way
 "Beachcomber Crescent",,,,way
 "Beacon Hill",,,,relation
@@ -1821,6 +1823,7 @@ Beaconvale,,,,relation
 "Beaulieu Road",,,,way
 "Beaumont Avenue",,,,way
 "Beaumont Cottages",,,,way
+"Beaumont Crescent",,,,way
 "Beauvais Avenue",,,,way
 "Beauville Crescent",,,,way
 "Beaver Road",,,,way
@@ -3208,6 +3211,7 @@ Burgandy,,,,way
 "Buzzard Close",,,,way
 "Buzzard Road",,,,way
 "Buzzard Street",,,,way
+"Buzzard Street Climb",,,,way
 "Bye Way",,,,way
 "Byrnes Avenue",,,,way
 "Byron Road",,,,way
@@ -3253,7 +3257,6 @@ Burgandy,,,,way
 "Caelian Street",,,,way
 "Caen Road",,,,way
 "Caernarvon Crescent",,,,way
-"Caernarvon Road",,,,way
 "Caesar Street",,,,way
 "Caesars Close",,,,way
 "Caesars Drive",,,,way
@@ -4054,8 +4057,8 @@ Cherrywood,,,,way
 Chipphillside,,,,way
 "Chipstead Way",,,,way
 "Chitha Street",,,,way
-"Chitten Way",,,,way
 "Chitton Way",,,,way
+"Chivalry Crescent",,,,way
 "Chives Street",,,,way
 "Choir Street",,,,way
 "Chokeberry Road",,,,way
@@ -4220,6 +4223,7 @@ Claremont,,,,relation
 "Cleveland Street",,,,way
 "Clevily Road",,,,way
 "Cliff Road",,,,way
+"Cliff Street",,,,way
 "Cliff road",,,,way
 "Cliffoney Street",,,,way
 "Clifford Avenue",,,,way
@@ -5234,6 +5238,7 @@ Dawson,,,,way
 "Delheim Street",,,,way
 "Delhi Road",,,,way
 "Delia Road",,,,way
+Delihla,,,,way
 "Delius Street",,,,way
 "Dell Close",,,,way
 "Dell Street",,,,way
@@ -6623,6 +6628,7 @@ FarmersCliffsWalkMiddle,,,,way
 "Farriers Crescent",,,,way
 "Farriers Way",,,,way
 "Farrington Street",,,,way
+"Farro Street",,,,way
 "Fassie Street",,,,way
 "Father Curran Crescent",,,,way
 "Father Trevor Huddleston Street",,,,way
@@ -7966,6 +7972,7 @@ Gousblom,,,,way
 "Graniet Street",,,,way
 "Granite Close",,,,way
 "Granite Lane",,,,way
+"Grano Street",,,,way
 "Grant Avenue",,,,way
 "Grant Close",,,,way
 "Grant Road",,,,way
@@ -15617,6 +15624,7 @@ Ottery,,,,relation
 "Paarlberg Crescent",,,,way
 "Paarlberg Street",,,,way
 "Pacific Avenue",,,,way
+"Pacific Close",,,,way
 "Pacific Road",,,,way
 "Pacific Street",,,,way
 "Pacific Way",,,,way
@@ -17406,7 +17414,6 @@ Riverdale,,,,way
 "Roas Road",,,,way
 "Roath Street",,,,way
 "Rob Street",,,,way
-"Robben Island",,,,relation
 "Robben Island Street",,,,way
 "Robben Road",,,,way
 "Robbie Street",,,,way
@@ -17471,6 +17478,7 @@ Robinvale,,,,relation
 "Rocklands Avenue",,,,way
 "Rocklands Close",,,,way
 "Rocklands Road",,,,way
+"Rocklands Street",,,,way
 "Rockley Road",,,,way
 "Rockpool Lane",,,,way
 "Rocktree Close",,,,way
@@ -18501,6 +18509,7 @@ Schotia,,,,way
 "Sea Otter",,,,way
 "Sea Point",,,,relation
 "Sea Point Promenade",,,,way
+"Sea Point Way",,,,way
 "Sea Pumpkin Way",,,,way
 "Sea Ranch Road",,,,way
 "Sea Rose Road",,,,way
@@ -18742,6 +18751,7 @@ Shale,,,,way
 "Shelduck Crescent",,,,way
 "Shelduck Street",,,,way
 "Shell Road",,,,way
+"Shell Street",,,,way
 "Shelley Road",,,,way
 "Shelley Street",,,,way
 "Shelly Crescent",,,,way
@@ -19061,6 +19071,7 @@ Sipres,,,,way
 "Sir Alfred Avenue",,,,way
 "Sir Bedivere Street",,,,way
 "Sir David Baird Drive",,,,way
+"Sir Ector Street",,,,way
 "Sir Galahad Street",,,,way
 "Sir George Gray Street",,,,way
 "Sir John Cradock Close",,,,way
@@ -19287,6 +19298,7 @@ Sluysken,,,,way
 "Solani Close",,,,way
 "Solar Street",,,,way
 "Solara Crescent",,,,way
+"Solaris Street",,,,way
 "Soldaat Square",,,,way
 "Soldier Way",,,,way
 "Soldiers Road",,,,way
@@ -19822,7 +19834,6 @@ Stork,,,,way
 "Stormkaap Road",,,,way
 "Storms River Way",,,,way
 "Storms Rivier Walk",,,,way
-"Storms Rivier Way",,,,way
 "Stormsrivier Street",,,,way
 "Stormvlei Street",,,,way
 "Stormvoel Square",,,,way
@@ -20753,6 +20764,7 @@ Tijgerhof,,,,relation
 "Tinktinkie Road",,,,way
 "Tinktinkie Street",,,,way
 "Tintagel Road",,,,way
+"Tintagel Street",,,,way
 "Tinto Street",,,,way
 "Tinus De Jongh Close",,,,way
 "Tiny Close",,,,way
@@ -21067,6 +21079,7 @@ Trident,,,,way
 "Tucana Link Road",,,,way
 "Tudor Close",,,,way
 "Tudor Road",,,,way
+"Tudor Street",,,,way
 "Tugela Avenue",,,,way
 "Tugela Circle",,,,way
 "Tugela Close",,,,way
