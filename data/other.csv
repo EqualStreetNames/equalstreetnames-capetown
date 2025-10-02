@@ -1,93 +1,4 @@
 name,source,gender,wikidata,type
-"10th Avenue",wikidata,,Q28469720,way
-"10th Street",wikidata,,Q28469720,way
-"11th Avenue",wikidata,,Q28469721,way
-"11th Road",wikidata,,Q28469721,way
-"11th Street",wikidata,,Q28469721,way
-"12th Avenue",wikidata,,Q28469722,way
-"12th Street",wikidata,,Q28469722,way
-"13th Avenue",wikidata,,Q28469723,way
-"13th Street",wikidata,,Q28469723,way
-"14th Avenue",wikidata,,Q28469724,way
-"14th Street",wikidata,,Q28469724,way
-"15th Avenue",wikidata,,Q28469725,way
-"15th Street",wikidata,,Q28469725,way
-"16th Avenue",wikidata,,Q28469726,way
-"16th Street",wikidata,,Q28469726,way
-"17th Avenue",wikidata,,Q28469727,way
-"17th Street",wikidata,,Q28469727,way
-"18th Avenue",wikidata,,Q28469728,way
-"18th Street",wikidata,,Q28469728,way
-"19th Avenue",wikidata,,Q28469729,way
-"19th Street",wikidata,,Q28469729,way
-"1st Avenue",wikidata,,Q28469711,way
-"1st Crescent",wikidata,,Q28469711,way
-"1st Road",wikidata,,Q28469711,way
-"1st Street",wikidata,,Q28469711,way
-"20th Avenue",wikidata,,Q28469730,way
-"20th Street",wikidata,,Q28469730,way
-"2nd Avenue",wikidata,,Q28469712,way
-"2nd Crescent",wikidata,,Q28469712,way
-"2nd Road",wikidata,,Q28469712,way
-"2nd Street",wikidata,,Q28469712,way
-"3rd Avenue",wikidata,,Q28469713,way
-"3rd Crescent",wikidata,,Q28469713,way
-"3rd Road",wikidata,,Q28469713,way
-"3rd Street",wikidata,,Q28469713,way
-"4th Avenue",wikidata,,Q28469714,way
-"4th Road",wikidata,,Q28469714,way
-"4th Street",wikidata,,Q28469714,way
-"5th Avenue",wikidata,,Q28469715,way
-"5th Road",wikidata,,Q28469715,way
-"5th Street",wikidata,,Q28469715,way
-"6th Avenue",wikidata,,Q28469716,way
-"6th Street",wikidata,,Q28469716,way
-"7th Avenue",wikidata,,Q28469717,way
-"7th Street",wikidata,,Q28469717,way
-"8th Avenue",wikidata,,Q28469718,way
-"8th Road",wikidata,,Q28469718,way
-"8th Street",wikidata,,Q28469718,way
-"9th Avenue",wikidata,,Q28469719,way
-"9th Road",wikidata,,Q28469719,way
-"9th Street",wikidata,,Q28469719,way
-"Acorn Close",wikidata,,Q3914781,way
-"Aloe Street",wikidata,,Q127134,way
-"Beach Road",wikidata,,Q40080,way
-"Camps Bay Drive",wikidata,,Q2935571,way
-"Castle Street",wikidata,,Q1049562,way
-"Church Street",wikidata,,Q16970,way
-"Constantia Main Road",wikidata,,Q1127739,way
-"Durban Drive",wikidata,,Q5468,way
-"Durban Road",wikidata,,Q5468,way
-"Durban Street",wikidata,,Q5468,way
-"Durban Way",wikidata,,Q5468,way
-"Geneva Drive",wikidata,,Q71,way
-"Granger Bay Boulevard",wikidata,,Q31737263,way
-"Hout Bay Main Road",wikidata,,Q1013375,way
-"Jordaan Street",wikidata,,Q1401387,way
-"Leeukop Street",wikidata,,Q1718867,way
-"Leeuwen Street",wikidata,,Q140,way
-"Liesbeek Parkway",wikidata,,Q4788088,way
-"Lion Street",wikidata,,Q140,way
-"Malines Avenue",wikidata,,Q162022,way
-"Menin Avenue",wikidata,,Q213224,way
-"Molteno Road",wikidata,,Q1003348,way
-"Mons Avenue",wikidata,,Q83407,way
-"Mouille Point Promenade",wikidata,,Q763449,way
-"Ottawa Avenue",wikidata,,Q1930,way
-"Pretoria Street",wikidata,,Q3926,way
-"Quebec Road",wikidata,,Q176,way
-"Robben Island",wikidata,,Q466597,relation
-"Rottingdean Road",wikidata,,Q1612583,way
-"Saint Michaels Road",wikidata,,Q45581,way
-"Southern Cross Drive",wikidata,,Q10542,way
-"Springbok Road",wikidata,,Q213084,way
-"Strand Street",wikidata,,Q40080,way
-"Sydney Street",wikidata,,Q3130,way
-"Tafelberg Road",wikidata,,Q213360,way
-"Upper Leeuwen Street",wikidata,,Q140,way
-"Voortrekker Road",wikidata,,Q510672,way
-"Voortrekker Street",wikidata,,Q510672,way
 """The Sevens""",,,,way
 "21st Avenue",,,,way
 "21st Street",,,,way
@@ -615,6 +526,7 @@ Albatross,,,,way
 "Amanda Close",,,,way
 "Amanda Road",,,,way
 "Amanda Street",,,,way
+Amandel,,,,way
 "Amandel Avenue",,,,way
 "Amandel Close",,,,way
 "Amandel Drive",,,,way
@@ -1750,6 +1662,7 @@ Balmoral,,,,way
 "Bauhinia Crescent",,,,way
 "Bauhinia Road",,,,way
 "Baviaans Close",,,,way
+"Baviaans Street",,,,way
 "Baviaanskloof Mountain Retreat Close",,,,way
 "Baviaanskloof Mountain Retreat Road",,,,way
 "Baviaanskloof Road",,,,way
@@ -2185,6 +2098,7 @@ Bering,,,,way
 "Bickley Street",,,,way
 "Bicycle Crescent",,,,way
 "Bida Crescent",,,,way
+"Bideford Road",,,,way
 "Bidoli Crescent",,,,way
 "Biedouberg Street",,,,way
 "Bien Donne",,,,way
@@ -2461,6 +2375,7 @@ Blouwater,,,,way
 "Bluegill Street",,,,way
 "Bluegum Avenue",,,,way
 "Bluegum Close",,,,way
+"Bluegum Dam to Singletrack",,,,way
 "Bluegum Dam to Stokkies or Endless",,,,way
 "Bluegum Grove Way",,,,way
 "Bluegum Lane",,,,way
@@ -2621,6 +2536,7 @@ Bonteheuwel,,,,relation+way
 Boomslang,,,,way
 "Boonzaaier Street",,,,way
 "Bootes Close",,,,way
+"Booth Road",,,,way
 "Booysen Close",,,,way
 "Bopha Close",,,,way
 "Borah Lane",,,,way
@@ -3013,6 +2929,7 @@ Brooklyn,,,,relation
 "Brown Crescent",,,,way
 "Brown Street",,,,way
 "Browne Street",,,,way
+"Browning Road",,,,way
 "Browning Street",,,,way
 "Brownlow Road",,,,way
 "Broxburn Road",,,,way
@@ -3040,6 +2957,7 @@ Brunswick,,,,way
 "Brutus Street",,,,way
 "Bruyns Road",,,,way
 "Bryan Street",,,,way
+"Bryan's Bones",,,,way
 "Bryant Street",,,,way
 "Bryn Road",,,,way
 "Buall Walk",,,,way
@@ -3380,10 +3298,16 @@ Cambridge,,,,way
 "Camphor Tree Close",,,,way
 "Camps Bay",,,,relation
 "Campus Street",,,,way
+"Canal - Akkerkloof",,,,way
+"Canal - Brinksburg",,,,way
+"Canal - Canal Trail",,,,way
+"Canal - Keurboom",,,,way
+"Canal - Kopland",,,,way
 "Canal Close",,,,way
 "Canal Crescent",,,,way
 "Canal Drive",,,,way
 "Canal Road",,,,way
+"Canal to Rola Connector",,,,way
 "Canara Crescent",,,,way
 "Canary Close",,,,way
 "Canary Crescent",,,,way
@@ -4480,6 +4404,7 @@ Coimbra,,,,way
 "Connect to Johnson Hut Rd",,,,way
 "Connection Street",,,,way
 "Connector to Endless",,,,way
+"Connector to Rasta",,,,way
 "Connemara Drive",,,,way
 "Connemara Road",,,,way
 "Conningsby Street",,,,way
@@ -4564,6 +4489,7 @@ Constantia,,,,relation
 "Corgi Road",,,,way
 "Coriander Crescent",,,,way
 "Coriander Street",,,,way
+"Cork Forest Connector",,,,way
 "Cork Lane",,,,way
 "Cork Oak Close",,,,way
 "Cork Street",,,,way
@@ -6331,6 +6257,13 @@ Elsenburg,,,,way
 "End Street",,,,way
 "End Way",,,,way
 "Endive Street",,,,way
+"Endless - Captain Rogers",,,,way
+"Endless - Dark Forest",,,,way
+"Endless - Derek's Dash",,,,way
+"Endless - Olive Dash",,,,way
+"Endless - Tim's Magic",,,,way
+"Endless - Wolf Trail",,,,way
+"Endless Start - Bluegum Dam",,,,way
 "Endurance Road",,,,way
 "Enfield Avenue",,,,way
 "Enfield Road",,,,way
@@ -6409,6 +6342,7 @@ Erica,,,,way
 "Erongo Street",,,,way
 "Eros Close",,,,way
 "Eros Way",,,,way
+"Errol's Climb",,,,way
 "Ertjiebos Crescent",,,,way
 "Ertjiehout Court",,,,way
 "Ertjiehout Street",,,,way
@@ -9112,7 +9046,14 @@ Hoheizen,,,,relation
 "Hombeam Way",,,,way
 "Homberg Street",,,,way
 "Homeleigh Avenue",,,,way
-"Homelink -Redbridge",,,,way
+"Homelink - Bafana Extension",,,,way
+"Homelink - Cork Forest",,,,way
+"Homelink - Red Bridge",,,,way
+"Homelink - Ride for a Child",,,,way
+"Homelink - River Beat",,,,way
+"Homelink - Rusta",,,,way
+"Homelink - Snail Pace",,,,way
+"Homelink - Young Bafana",,,,way
 "Homer Road",,,,way
 "Homeria Close",,,,way
 "Homeria Road",,,,way
@@ -9438,6 +9379,7 @@ Impala,,,,way
 "Impression - Protea Alley",,,,way
 "Impression - Rocky",,,,way
 "Impression - Roelof",,,,way
+"Impression - Trout Run",,,,way
 "Impukumthi Crescent",,,,way
 "Impumelelo Road",,,,way
 "Impungutye Close",,,,way
@@ -9594,6 +9536,7 @@ Iris,,,,way
 "Iris Way",,,,way
 "Irma Stern Close",,,,way
 "Irmas Lane",,,,way
+"Iron Close",,,,way
 "Iron Street",,,,way
 "Ironwood Close",,,,way
 "Ironwood Road",,,,way
@@ -9701,6 +9644,7 @@ Iris,,,,way
 "J.W. Theron Street",,,,way
 "J.Z. Fuku Way",,,,way
 "J.Z. Ndaliso Street",,,,way
+"JK's Contour",,,,way
 "Jabavu Street",,,,way
 "Jaberhon Crescent",,,,way
 "Jabulani Miya Road",,,,way
@@ -10040,6 +9984,7 @@ Iris,,,,way
 "Jopie Fourie Street",,,,way
 "Jordaan Close",,,,way
 "Jordan Street",,,,way
+Jordan_10,,,,way
 "Jordane Circle",,,,way
 "Jorgens Avenue",,,,way
 "Jorgensens Avenue",,,,way
@@ -12533,7 +12478,6 @@ Maitland,,,,relation
 "Malvern Street",,,,way
 Mamba,,,,way
 "Mamela Street",,,,way
-Mamre,,,,relation
 "Mamre Road",,,,way
 "Mamre Street",,,,way
 "Manakaza Street",,,,way
@@ -15228,7 +15172,6 @@ Oaklands,,,,way
 "Oboe Close",,,,way
 "Oboe Street",,,,way
 "Obol Street",,,,way
-Observatory,,,,relation
 "Observatory Road",,,,way
 "Occultdale Road",,,,way
 "Ocean Mist Close",,,,way
@@ -15285,6 +15228,7 @@ Okavango,,,,way
 "Old Cottage Road",,,,way
 "Old Farm Road",,,,way
 "Old Faure Road",,,,way
+"Old Graveyard",,,,way
 "Old Kendal Close",,,,way
 "Old Kendal Road",,,,way
 "Old Klipfontein Road",,,,way
@@ -15360,6 +15304,7 @@ Olienhout,,,,way
 "Olive Road",,,,way
 "Olive Schreiner Street",,,,way
 "Olive Schreiner Way",,,,way
+"Olive Stairs",,,,way
 "Olive Street",,,,way
 "Olive Tree Close",,,,way
 "Oliver Crescent",,,,way
@@ -15964,6 +15909,7 @@ Pasteur,,,,way
 "Paulus Road",,,,way
 "Paulus Street",,,,way
 "Paulus Walk",,,,way
+"Pavilion Place",,,,way
 "Pavillion Place",,,,way
 "Pavillion Road",,,,way
 "Pavo Street",,,,way
@@ -16409,6 +16355,8 @@ Pinelands,,,,relation
 "Pinot Blanc Road",,,,way
 "Pinot Noir Close",,,,way
 "Pinot Noir Street",,,,way
+"Pinot Stairs",,,,way
+"Pinot Stairs to Gravel Road Connector",,,,way
 "Pinotage Avenue",,,,way
 "Pinotage Close",,,,way
 "Pinotage Crescent",,,,way
@@ -16533,6 +16481,7 @@ Plattekloof,,,,relation
 Plumstead,,,,relation
 "Plumtree Avenue",,,,way
 "Plumtree Close",,,,way
+"Plumtree Street",,,,way
 "Pluto Close",,,,way
 "Pluto Lane",,,,way
 "Pluto Road",,,,way
@@ -17562,9 +17511,12 @@ Robinvale,,,,relation
 "Roker Park",,,,way
 "Roket Crescent",,,,way
 "Rola Coaster - African Cruiser",,,,way
+"Rola Coaster - Chequered Flag",,,,way
 "Rola Coaster - Formula-E",,,,way
+"Rola Coaster - Jeep Track",,,,way
 "Rola Coaster - Karoo-My-Bru",,,,way
 "Rola Coaster - Starting Grid",,,,way
+"Rola Coaster - Stelvio Switchback",,,,way
 "Rola Coaster - Tougher-er",,,,way
 "Rolbal Crescent",,,,way
 "Rolbal Street",,,,way
@@ -18244,7 +18196,6 @@ Salie,,,,way
 "Salmon Way",,,,way
 "Salmone Road",,,,way
 "Salome Street",,,,way
-"Salt River",,,,relation
 "Salt River Circle",,,,way
 "Salt River Road",,,,way
 "Salt Street",,,,way
@@ -18495,6 +18446,7 @@ Scarborough,,,,relation
 "Schilpadvlei Road",,,,way
 "Schiphol Road",,,,way
 "Schmidt Street",,,,way
+"Schoemans Dam",,,,way
 "Schoenstatt Avenue",,,,way
 "Scholtz Road",,,,way
 "Scholtz Street",,,,way
@@ -19493,6 +19445,7 @@ Sonnendal,,,,relation
 "Southern Hills Drive",,,,way
 "Southern Right Circle",,,,way
 "Southern Right Close",,,,way
+"Southern Right Connector",,,,way
 "Southey Street",,,,way
 Southfield,,,,relation
 "Southfield Road",,,,way
@@ -19863,6 +19816,7 @@ Stellenberg,,,,way
 "Stocton Close",,,,way
 "Stoke Street",,,,way
 "Stoker Street",,,,way
+"Stokkies - Full",,,,way
 "Stokkies to Impression and Endless Connector (N2)",,,,way
 "Stokkies to the Top Contour (N2)",,,,way
 "Stokoe's Pass",,,,way
@@ -21332,6 +21286,7 @@ Tygerdal,,,,relation
 "Ugqirha Street",,,,way
 "Ugwali Walk",,,,way
 "Ugwidi Street",,,,way
+"Uhuru Street",,,,way
 "Uil Street",,,,way
 "Uiltjie Lane",,,,way
 "Uintjie Crescent",,,,way
@@ -21385,10 +21340,15 @@ Ukhetshe,,,,way
 "Ulmus Close",,,,way
 "Ulster Road",,,,way
 "Ultimate - Barrel Run",,,,way
+"Ultimate - Black Beauty",,,,way
 "Ultimate - Cathedral",,,,way
+"Ultimate - Dasklip",,,,way
 "Ultimate - Kleipot",,,,way
+"Ultimate - Rooiland Dam",,,,way
+"Ultimate - Roxy",,,,way
 "Ultimate - Skyline (N1 West)",,,,way
 "Ultimate - Southern Right",,,,way
+"Ultimate - The Dome",,,,way
 "Ultra Avenue",,,,way
 Ulunthu,,,,way
 "Ulunthu Street",,,,way
@@ -21492,7 +21452,6 @@ Ulunthu,,,,way
 "Unity Road",,,,way
 "University Avenue",,,,way
 "University Drive",,,,way
-"University Estate",,,,relation
 "Uno Road",,,,way
 "Unobhala Street",,,,way
 "Unocofu Street",,,,way
@@ -22312,7 +22271,6 @@ Waldrift,,,,way
 "Wallota Street",,,,way
 "Walmer Close",,,,way
 "Walmer Crescent",,,,way
-"Walmer Estate",,,,relation
 "Walmer Road",,,,way
 "Walmer Street",,,,way
 "Walnut Close",,,,way
@@ -22923,6 +22881,8 @@ Windermere,,,,relation
 "Windsor Street",,,,way
 "Windsor Way",,,,way
 "Windward Turn",,,,way
+"Winelands 1-Stop North",,,,way
+"Winelands 1-Stop South",,,,way
 "Winelands Close",,,,way
 "Winery Road",,,,way
 "Winfell Street",,,,way
@@ -23011,6 +22971,7 @@ Witzenberg,,,,way
 "Wolf Miller Street",,,,way
 "Wolf Power Close",,,,way
 "Wolf Street",,,,way
+"Wolf Trail to Endless Connector",,,,way
 "Wolfberg Close",,,,way
 "Wolfberg Road",,,,way
 "Wolfberg Street",,,,way

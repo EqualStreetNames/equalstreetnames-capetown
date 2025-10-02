@@ -1,4 +1,93 @@
 name,source,gender,wikidata,type
+"10th Avenue",wikidata,-,Q28469720,way
+"10th Street",wikidata,-,Q28469720,way
+"11th Avenue",wikidata,-,Q28469721,way
+"11th Road",wikidata,-,Q28469721,way
+"11th Street",wikidata,-,Q28469721,way
+"12th Avenue",wikidata,-,Q28469722,way
+"12th Street",wikidata,-,Q28469722,way
+"13th Avenue",wikidata,-,Q28469723,way
+"13th Street",wikidata,-,Q28469723,way
+"14th Avenue",wikidata,-,Q28469724,way
+"14th Street",wikidata,-,Q28469724,way
+"15th Avenue",wikidata,-,Q28469725,way
+"15th Street",wikidata,-,Q28469725,way
+"16th Avenue",wikidata,-,Q28469726,way
+"16th Street",wikidata,-,Q28469726,way
+"17th Avenue",wikidata,-,Q28469727,way
+"17th Street",wikidata,-,Q28469727,way
+"18th Avenue",wikidata,-,Q28469728,way
+"18th Street",wikidata,-,Q28469728,way
+"19th Avenue",wikidata,-,Q28469729,way
+"19th Street",wikidata,-,Q28469729,way
+"1st Avenue",wikidata,-,Q28469711,way
+"1st Crescent",wikidata,-,Q28469711,way
+"1st Road",wikidata,-,Q28469711,way
+"1st Street",wikidata,-,Q28469711,way
+"20th Avenue",wikidata,-,Q28469730,way
+"20th Street",wikidata,-,Q28469730,way
+"2nd Avenue",wikidata,-,Q28469712,way
+"2nd Crescent",wikidata,-,Q28469712,way
+"2nd Road",wikidata,-,Q28469712,way
+"2nd Street",wikidata,-,Q28469712,way
+"3rd Avenue",wikidata,-,Q28469713,way
+"3rd Crescent",wikidata,-,Q28469713,way
+"3rd Road",wikidata,-,Q28469713,way
+"3rd Street",wikidata,-,Q28469713,way
+"4th Avenue",wikidata,-,Q28469714,way
+"4th Road",wikidata,-,Q28469714,way
+"4th Street",wikidata,-,Q28469714,way
+"5th Avenue",wikidata,-,Q28469715,way
+"5th Road",wikidata,-,Q28469715,way
+"5th Street",wikidata,-,Q28469715,way
+"6th Avenue",wikidata,-,Q28469716,way
+"6th Street",wikidata,-,Q28469716,way
+"7th Avenue",wikidata,-,Q28469717,way
+"7th Street",wikidata,-,Q28469717,way
+"8th Avenue",wikidata,-,Q28469718,way
+"8th Road",wikidata,-,Q28469718,way
+"8th Street",wikidata,-,Q28469718,way
+"9th Avenue",wikidata,-,Q28469719,way
+"9th Road",wikidata,-,Q28469719,way
+"9th Street",wikidata,-,Q28469719,way
+"Acorn Close",wikidata,-,Q3914781,way
+"Aloe Street",wikidata,-,Q127134,way
+"Beach Road",wikidata,-,Q40080,way
+"Camps Bay Drive",wikidata,-,Q2935571,way
+"Castle Street",wikidata,-,Q1049562,way
+"Church Street",wikidata,-,Q16970,way
+"Constantia Main Road",wikidata,-,Q1127739,way
+"Durban Drive",wikidata,-,Q5468,way
+"Durban Road",wikidata,-,Q5468,way
+"Durban Street",wikidata,-,Q5468,way
+"Durban Way",wikidata,-,Q5468,way
+"Geneva Drive",wikidata,-,Q71,way
+"Granger Bay Boulevard",wikidata,-,Q31737263,way
+"Hout Bay Main Road",wikidata,-,Q1013375,way
+"Jordaan Street",wikidata,-,Q1401387,way
+"Leeukop Street",wikidata,-,Q1718867,way
+"Leeuwen Street",wikidata,-,Q140,way
+"Liesbeek Parkway",wikidata,-,Q4788088,way
+"Lion Street",wikidata,-,Q140,way
+"Malines Avenue",wikidata,-,Q162022,way
+"Menin Avenue",wikidata,-,Q213224,way
+"Molteno Road",wikidata,-,Q1003348,way
+"Mons Avenue",wikidata,-,Q83407,way
+"Mouille Point Promenade",wikidata,-,Q763449,way
+"Ottawa Avenue",wikidata,-,Q1930,way
+"Pretoria Street",wikidata,-,Q3926,way
+"Quebec Road",wikidata,-,Q176,way
+"Robben Island",wikidata,-,Q466597,relation
+"Rottingdean Road",wikidata,-,Q1612583,way
+"Saint Michaels Road",wikidata,-,Q45581,way
+"Southern Cross Drive",wikidata,-,Q10542,way
+"Springbok Road",wikidata,-,Q213084,way
+"Strand Street",wikidata,-,Q40080,way
+"Sydney Street",wikidata,-,Q3130,way
+"Tafelberg Road",wikidata,-,Q213360,way
+"Upper Leeuwen Street",wikidata,-,Q140,way
+"Voortrekker Road",wikidata,-,Q510672,way
+"Voortrekker Street",wikidata,-,Q510672,way
 "Albertina Sisulu Crescent",wikidata,F,Q467744,way
 "Helen Suzman Boulevard",wikidata,F,Q165405,way
 "Queen Victoria Road",wikidata,F,Q9439,way
