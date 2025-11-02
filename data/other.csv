@@ -345,6 +345,7 @@ Albatross,,,,way
 "Albion Crescent",,,,way
 "Albion Road",,,,way
 "Albion Springs",,,,way
+"Albion Springs Close",,,,way
 "Albion Way",,,,way
 "Albourne Crescent",,,,way
 "Albourne Estate",,,,way
@@ -1156,6 +1157,7 @@ Atlantis,,,,relation
 "Austwick Road",,,,way
 "Autumn Close",,,,way
 "Autumn Street",,,,way
+"Autumn Wood Street",,,,way
 "Avalon Close",,,,way
 "Avalon Road",,,,way
 "Avante Crescent",,,,way
@@ -2534,6 +2536,7 @@ Bonteheuwel,,,,relation+way
 "Boomerang Street",,,,way
 "Boompies Street",,,,way
 Boomslang,,,,way
+"Boomslang Cave Path (Underground)",,,,way
 "Boonzaaier Street",,,,way
 "Bootes Close",,,,way
 "Booth Road",,,,way
@@ -3138,6 +3141,7 @@ Burgandy,,,,way
 "Buzzard Street",,,,way
 "Buzzard Street Climb",,,,way
 "Bye Way",,,,way
+Bypass,,,,way
 "Byrnes Avenue",,,,way
 "Byron Road",,,,way
 "Byron Street",,,,way
@@ -3527,7 +3531,6 @@ Caracal,,,,way
 "Cas Street",,,,way
 "Casa Bello Crescent",,,,way
 "Casa Lingo Close",,,,way
-"Casa Mia",,,,way
 "Casalino Crescent",,,,way
 "Cascade Street",,,,way
 "Cashel Avenue",,,,way
@@ -5607,6 +5610,7 @@ Dijon,,,,way
 "Dorris Street",,,,way
 "Dorset Street",,,,way
 "Dorsetshire Street",,,,way
+"Dorstberg Street",,,,way
 "Dorwil Prag Close",,,,way
 "Dory Walk",,,,way
 "Dosi Street",,,,way
@@ -6798,6 +6802,7 @@ Firethorn,,,,way
 "Fish Eagle Road",,,,way
 "Fish Eagles Way",,,,way
 "Fish Hoek",,,,relation
+"Fish Quay Road",,,,way
 "Fish Road",,,,way
 "Fish Street",,,,way
 "Fisher Street",,,,way
@@ -9484,6 +9489,7 @@ Induli,,,,way
 "Intenetya Street",,,,way
 "Intengu Street",,,,way
 "Inter Milan Road",,,,way
+"Inter Street",,,,way
 Intermezzo,,,,way
 "Internal Road",,,,way
 "Intethe Close",,,,way
@@ -9704,6 +9710,7 @@ Iris,,,,way
 "Jagers Walk",,,,way
 "Jagersfontein Avenue",,,,way
 "Jagger Road",,,,way
+"Jagger Street",,,,way
 "Jagger Walk",,,,way
 "Jago Lane",,,,way
 "Jagters Street",,,,way
@@ -14436,7 +14443,7 @@ Ndabeni,,,,relation
 "New Close",,,,way
 "New Eisleben Road",,,,way
 "New Forest Crescent",,,,way
-"New Haven",,,,way
+"New Haven Street",,,,way
 "New Mill Road",,,,way
 "New Nooiensfontein Drive",,,,way
 "New Ottery Road",,,,way
@@ -15213,7 +15220,6 @@ Oaklands,,,,way
 "Ojihipa Street",,,,way
 "Okapi Close",,,,way
 "Okapis Street",,,,way
-Okavango,,,,way
 "Okavango Road",,,,way
 "Oki Close",,,,way
 "Okkerneut Avenue",,,,way
@@ -15798,7 +15804,6 @@ Panorama,,,,relation
 "Park Side Complex",,,,way
 "Park Smith Street",,,,way
 "Park Street",,,,way
-"Park View Close",,,,way
 "Park View Complex",,,,way
 "Park Villa Road",,,,way
 "Park Villas Complex",,,,way
@@ -16560,6 +16565,7 @@ Plumstead,,,,relation
 "Porath Walk",,,,way
 "Porcupine Close",,,,way
 "Porcupine Ravine",,,,way
+"Porcupine Trail",,,,way
 "Porcupine Way",,,,way
 "Port Jackson Road",,,,way
 "Port Jackson Street",,,,way
@@ -22084,6 +22090,7 @@ Voilet,,,,way
 "Volga Road",,,,way
 "Volga Street",,,,way
 "Volksang Road",,,,way
+"Voloshin Road",,,,way
 "Volschenk Street",,,,way
 "Volsteedt Street",,,,way
 Volstruis,,,,way
