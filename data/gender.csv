@@ -84,7 +84,6 @@ name,source,gender,wikidata,type
 "Springbok Road",wikidata,-,Q213084,way
 "Strand Street",wikidata,-,Q40080,way
 "Sydney Street",wikidata,-,Q3130,way
-"Tafelberg Road",wikidata,-,Q213360,way
 "Upper Leeuwen Street",wikidata,-,Q140,way
 "Voortrekker Road",wikidata,-,Q510672,way
 "Voortrekker Street",wikidata,-,Q510672,way
@@ -101,7 +100,6 @@ name,source,gender,wikidata,type
 "Columbus Road",wikidata,M,Q7322,way
 "D.F. Malan Street",wikidata,M,Q317449,way
 "F.W. de Klerk Boulevard",wikidata,M,Q151813,way
-"FW de Klerk Boulevard",wikidata,M,Q151813,way
 "Gladstone Street",wikidata,M,Q160852,way
 "Govan Mbeki Road",wikidata,M,Q1396109,way
 "Hans Strijdom Avenue",wikidata,M,Q359536,way
