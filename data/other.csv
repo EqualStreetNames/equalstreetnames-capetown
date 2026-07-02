@@ -32,14 +32,13 @@ name,source,gender,wikidata,type
 "50 Road",,,,way
 "50th Avenue",,,,way
 "51st Avenue",,,,way
-"580 m Devil's Peak Traverse",,,,way
 "580 m Traverse",,,,way
+"580m Devil's Peak Traverse",,,,way
+"580m Traverse",,,,way
 "580m Traverse Link",,,,way
 "6th Ext Close",,,,way
 "7 Buttresses Traverse",,,,way
-"700 m Traverse",,,,way
-A,,,,way
-"A P Burger Avenue",,,,way
+"700m Traverse",,,,way
 "A. Franch Avenue",,,,way
 "A. Jakob Road",,,,way
 "A. Ngqika Avenue",,,,way
@@ -48,6 +47,7 @@ A,,,,way
 "A.D. Keet Road",,,,way
 "A.G. Visser Street",,,,way
 "A.J. West Street",,,,way
+"A.P. Burger Avenue",,,,way
 "A.Z. Berman Drive",,,,way
 "Aachen Way",,,,way
 "Aadil Moerat Walk",,,,way
@@ -339,8 +339,8 @@ Albatross,,,,way
 "Albertus Street",,,,way
 "Albertyn Road",,,,way
 "Albertyn Street",,,,way
-"Albie De Waal Street",,,,way
 "Albie Sachs Street",,,,way
+"Albie de Waal Street",,,,way
 "Albion Close",,,,way
 "Albion Crescent",,,,way
 "Albion Road",,,,way
@@ -617,11 +617,11 @@ Amandel,,,,way
 "Andalusia Avenue",,,,way
 "Andersen Street",,,,way
 "Anderson Close",,,,way
-"Anderson North Road",,,,way
 "Anderson Road",,,,way
-"Anderson South Road",,,,way
+"Anderson Road North",,,,way
+"Anderson Road South",,,,way
+"Anderson Road West",,,,way
 "Anderson Street",,,,way
-"Anderson West Road",,,,way
 "Andes Street",,,,way
 "Andes Way",,,,way
 "Andile Jacobs Street",,,,way
@@ -784,7 +784,7 @@ Andromeda,,,,way
 "Apollo Road",,,,way
 "Apollo Street",,,,way
 "Apollo Way",,,,way
-"Apostelhoeve lane",,,,way
+"Apostelhoeve Lane",,,,way
 "Apostle Road",,,,way
 "Apostle Steps",,,,way
 "Appaloosa Crescent",,,,way
@@ -1164,7 +1164,6 @@ Atlantis,,,,relation
 "Avalon Road",,,,way
 "Avante Crescent",,,,way
 "Avanti Private Road",,,,way
-"Ave D. Hermet",,,,way
 "Avebury Street",,,,way
 "Avenger Road",,,,way
 "Avenhoorn Close",,,,way
@@ -1178,6 +1177,7 @@ Atlantis,,,,relation
 "Avenue Circus",,,,way
 "Avenue Coeur de Lion",,,,way
 "Avenue Cordelia",,,,way
+"Avenue D. Hermet",,,,way
 "Avenue Deauville",,,,way
 "Avenue Disandt",,,,way
 "Avenue Fontain Bleau",,,,way
@@ -1685,7 +1685,7 @@ Balmoral,,,,way
 "Baxter Way",,,,way
 "Bay Avenue",,,,way
 "Bay Beach Avenue",,,,way
-"Bay Beach South Avenue",,,,way
+"Bay Beach Avenue South",,,,way
 "Bay End",,,,way
 "Bay Hill Terrace",,,,way
 "Bay Road",,,,way
@@ -1715,9 +1715,9 @@ Balmoral,,,,way
 "Beach Crescent",,,,way
 "Beach Estate Boulevard",,,,way
 "Beach Path",,,,way
+"Beach Path Gate 1",,,,way
 "Beach Path Gate 2",,,,way
 "Beach Path Gate 3",,,,way
-"Beach Path to Gate 1",,,,way
 "Beach Way",,,,way
 "Beachcomber Bay",,,,way
 "Beachcomber Crescent",,,,way
@@ -1763,7 +1763,7 @@ Beaconvale,,,,relation
 "Bedfordshire Close",,,,way
 "Bedgebury Street",,,,way
 "Bee Eater Close",,,,way
-"Bee-eater Street",,,,way
+"Bee-Eater Street",,,,way
 "Beech Close",,,,way
 "Beech Crescent",,,,way
 "Beech Street",,,,way
@@ -2237,7 +2237,7 @@ Bishopscourt,,,,relation
 "Blackhawk Crescent",,,,way
 "Blackheath Road",,,,way
 "Blackhill River Walk",,,,way
-"Blackhill sandpit",,,,way
+"Blackhill Sandpit",,,,way
 "Blackpool Street",,,,way
 "Blacksmith Way",,,,way
 "Blackwell Lane",,,,way
@@ -2601,7 +2601,6 @@ Bosbok,,,,way
 "Bosica Street",,,,way
 "Boskloof Drive",,,,way
 "Boskloof Ridge",,,,way
-"Boskloof Ridge  B",,,,way
 "Boskloof Ridge B",,,,way
 "Boskloof Road",,,,way
 "Boskykloof Road",,,,way
@@ -8169,6 +8168,7 @@ Greta,,,,way
 "Grundheim Street",,,,way
 "Gruythof Avenue",,,,way
 Grysbok,,,,way
+"Grysbok Close",,,,way
 "Grysbok Road",,,,way
 "Grysbok Street",,,,way
 "Grysbok Way",,,,way
@@ -17794,11 +17794,11 @@ Rosebank,,,,relation
 "Rowena Street",,,,way
 "Roxana Road",,,,way
 "Roy Campbell Crescent",,,,way
-"Roy De Vries",,,,way
 "Roy Dewar Close",,,,way
 "Roy Lane",,,,way
 "Roy Road",,,,way
 "Roy Road East",,,,way
+"Roy de Vries",,,,way
 "Royal Avenue",,,,way
 "Royal Crescent",,,,way
 "Royal Fern Crescent",,,,way
