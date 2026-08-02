@@ -1701,6 +1701,8 @@ Balmoral,,,,way
 "Bayiza Square",,,,way
 "Bayne Street",,,,way
 "Bayonne Crescent",,,,way
+"Bayridge Close",,,,way
+"Bayside Street",,,,way
 "Bayswater Bend",,,,way
 "Bayswater Road",,,,way
 "Bayview Road",,,,way
@@ -2146,7 +2148,7 @@ Bering,,,,way
 "Binga Road",,,,way
 "Binga Square",,,,way
 "Binga Street",,,,way
-"Binksburg Dam road",,,,way
+"Binksburg Dam Road",,,,way
 "Binne Crescent",,,,way
 "Binne Street",,,,way
 "Binneman Street",,,,way
@@ -2386,7 +2388,6 @@ Blouwater,,,,way
 "Bluegum Avenue",,,,way
 "Bluegum Close",,,,way
 "Bluegum Dam to Singletrack",,,,way
-"Bluegum Dam to Stokkies or Endless",,,,way
 "Bluegum Grove Way",,,,way
 "Bluegum Lane",,,,way
 "Bluegum Place",,,,way
@@ -3000,6 +3001,7 @@ Brunswick,,,,way
 "Buffalo Road",,,,way
 "Buffalo Street",,,,way
 "Buffalo Way",,,,way
+"Buffelsbay Detour (Coastal)",,,,way
 "Buffelsberg Close",,,,way
 Buffelshoek,,,,way
 "Buffelshoek Road",,,,way
@@ -4177,7 +4179,6 @@ Claremont,,,,relation
 "Clevily Road",,,,way
 "Cliff Road",,,,way
 "Cliff Street",,,,way
-"Cliff road",,,,way
 "Cliffoney Street",,,,way
 "Clifford Avenue",,,,way
 "Clifford Crescent",,,,way
@@ -5141,6 +5142,7 @@ Dawson,,,,way
 "De Waal Road",,,,way
 "De Waal Road Service Road",,,,way
 "De Waal Street",,,,way
+"De Waterbosch Avenua",,,,way
 "De Waterkant",,,,relation
 "De Wet 1st Road",,,,way
 "De Wet 2nd Road",,,,way
@@ -8640,11 +8642,11 @@ Heemraden,,,,way
 "Heere Street",,,,way
 Heerengracht,,,,way
 "Heerengracht Boulevard",,,,way
-"Heerengracht Boulevard Bus Lane",,,,way
 "Heerengracht Bus Lane",,,,way
 "Heerengracht Close",,,,way
 "Heerengracht Road",,,,way
 "Heerengracht Street",,,,way
+"Heerengracht Street Bus Lane",,,,way
 "Heerenzicht Road",,,,way
 "Heerlik Road",,,,way
 Heide,,,,way
@@ -10403,7 +10405,7 @@ Katjiepiering,,,,way
 "Ken Heights Road",,,,way
 "Kenali Close",,,,way
 "Kendal Road",,,,way
-"Kendal Road Service Road",,,,way
+"Kendal Service Road",,,,way
 "Kendall Street",,,,way
 "Kenhardt Road",,,,way
 Kenilworth,,,,relation
@@ -11181,6 +11183,7 @@ Kwarts,,,,way
 "La Sandra Close",,,,way
 "La Scala Road",,,,way
 "La Veritas Close",,,,way
+"La Verona",,,,way
 "La Vista",,,,way
 "Labiance Street",,,,way
 "Labisa Close",,,,way
@@ -12093,7 +12096,7 @@ Lovebird,,,,way
 "Lower Hope Road",,,,way
 "Lower Kildare Crescent",,,,way
 "Lower Klipfontein Road",,,,way
-"Lower Kloof corner link",,,,way
+"Lower Kloof Corner Link",,,,way
 "Lower Long Street",,,,way
 "Lower Loop Street",,,,way
 "Lower Main Road",,,,way
@@ -13610,7 +13613,6 @@ Misteriosa,,,,way
 "Mnqanqeni Street",,,,way
 "Mnqayi Crescent",,,,way
 "Mnqayi Street",,,,way
-"Mnquma STreet",,,,way
 "Mnquma Street",,,,way
 "Mntunzi Street",,,,way
 "Mnumelwano Street",,,,way
@@ -14575,7 +14577,7 @@ Newlands,,,,relation
 "Ngcisininde Crescent",,,,way
 "Ngcobo Close",,,,way
 "Ngcobo Street",,,,way
-"Ngcongolo street",,,,way
+"Ngcongolo Street",,,,way
 "Ngcukana Street",,,,way
 "Ngculu Street",,,,way
 "Ngcungcu Crescent",,,,way
@@ -15549,9 +15551,8 @@ Orchard,,,,way
 "Orrel Street",,,,way
 "Orrscroft Road",,,,way
 "Ortega Lane",,,,way
-"Oryx Road",,,,way
+"Oryx Crescent",,,,way
 "Oryx Street",,,,way
-"Oryx crescent",,,,way
 "Osborn Square",,,,way
 "Osborne Close",,,,way
 "Osborne Road",,,,way
@@ -16459,7 +16460,6 @@ Pinelands,,,,relation
 "Pionier Street",,,,way
 "Pipe Bridge",,,,way
 "Pipe Track",,,,way
-"Pipe Track (alternative route, closed off)",,,,way
 "Piper Crescent",,,,way
 "Piper Street",,,,way
 "Pipers Close",,,,way
@@ -16640,7 +16640,6 @@ Plumstead,,,,relation
 "Poppy Street",,,,way
 "Poproos Crescent",,,,way
 "Populace Street",,,,way
-"Popular Route to The Neck (N1)",,,,way
 "Popular Route to the Neck (N1)",,,,way
 "Populier Close",,,,way
 "Populier Street",,,,way
@@ -16961,7 +16960,6 @@ Prunus,,,,way
 "Querus Road",,,,way
 "Quest Road",,,,way
 "Quick Road",,,,way
-"Quick way home from the Neck",,,,way
 "Quiet Close",,,,way
 "Quiet Street",,,,way
 "Quietude Street",,,,way
@@ -17553,7 +17551,7 @@ Robinvale,,,,relation
 "Robyn Park Close",,,,way
 "Robyn Road",,,,way
 "Robyn Street",,,,way
-"Robyn's way",,,,way
+"Robyn's Way",,,,way
 "Rocastle Close",,,,way
 "Rochea Close",,,,way
 "Rochefort Close",,,,way
@@ -18279,7 +18277,6 @@ Salie,,,,way
 "Salisbury Road",,,,way
 "Salisbury Street",,,,way
 "Salisbury Way",,,,way
-"Saliva Road",,,,way
 "Salivia Street",,,,way
 "Salix Street",,,,way
 "Sally Close",,,,way
@@ -18974,7 +18971,6 @@ Shortcut,,,,way
 "Sidima Crescent",,,,way
 "Sidloyi Street",,,,way
 "Sidmouth Avenue",,,,way
-"Sidmouth Road",,,,way
 "Sidney Goldblatt Crescent",,,,way
 "Sidneyvale Street",,,,way
 "Sidon Close",,,,way
@@ -20929,8 +20925,6 @@ Tijgerhof,,,,relation
 "Tloome Crescent",,,,way
 "To Binkburg and Kopland Dam",,,,way
 "To Oxford Street",,,,way
-"To Skyline - Barrel Run - The Neck (N1 West)",,,,way
-"To Wolf Trail and Endless (N2)",,,,way
 "Toad Tree Close",,,,way
 "Tobago Close",,,,way
 "Tobago Place",,,,way
@@ -20985,7 +20979,6 @@ Tokai,,,,relation
 "Tony Maloma Street",,,,way
 "Tony Nodlela Crescent",,,,way
 "Tony Yengeni Road",,,,way
-"Top Contour from The Neck to The Dome",,,,way
 "Top Road",,,,way
 "Topaas Close",,,,way
 "Topaz Boulevard",,,,way
@@ -21038,7 +21031,6 @@ Tortoise,,,,way
 "Tottum Way",,,,way
 "Toucan Court",,,,way
 "Toucan Way",,,,way
-"Tough Climb to Stokkies and Impression (N4)",,,,way
 "Toulon Avenue",,,,way
 "Toulon Street",,,,way
 "Toulouse Road",,,,way
@@ -21308,6 +21300,7 @@ Trident,,,,way
 "Tuscan Crescent",,,,way
 "Tuscana Close",,,,way
 "Tuscany Crescent",,,,way
+"Tuscany Ridge Road",,,,way
 "Tussendal Avenue",,,,way
 "Tutu Avenue",,,,way
 "Tutu Street",,,,way
@@ -21454,14 +21447,12 @@ Ukhetshe,,,,way
 "Ulm Way",,,,way
 "Ulmus Close",,,,way
 "Ulster Road",,,,way
-"Ultimate - Barrel Run",,,,way
 "Ultimate - Black Beauty",,,,way
 "Ultimate - Cathedral",,,,way
 "Ultimate - Dasklip",,,,way
 "Ultimate - Kleipot",,,,way
 "Ultimate - Rooiland Dam",,,,way
 "Ultimate - Roxy",,,,way
-"Ultimate - Skyline (N1 West)",,,,way
 "Ultimate - Southern Right",,,,way
 "Ultimate - The Dome",,,,way
 "Ultra Avenue",,,,way
